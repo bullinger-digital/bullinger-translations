@@ -7,7 +7,7 @@ They were not manually checked and may therefore contain errors.
 ## German translations of Latin letters
 The folder [la_de](la_de) contains German translations of the Latin letters. Only letters that contain at least one 
 latin sentence are included. Each sentence was translated separately by the
-[Machine Translation system](https://translate.bullinger-digital.ch/) (Model Update: January 2023) of the Bullinger 
+[Machine Translation system](https://translate.bullinger-digital.ch/) (Model Update: January 2023) as part of the Bullinger 
 Digital Project. Therefore, context information across sentences is not taken into account.
 
 ## English translations
