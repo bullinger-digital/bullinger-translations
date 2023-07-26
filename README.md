@@ -11,11 +11,11 @@ latin sentence are included. Each sentence was translated separately by the
 Digital Project. Therefore, context information across sentences is not taken into account.
 
 ## English translations
-The folder [all_en](all_en) contains English translations of the first 123 letters of the Bullinger Digital Edition. The
+The folder [all_en](all_en) contains English translations of the first 123 letters of the Bullinger Digital Edition. All sentences were translated, regardless of the source language. The
 translations were created using GPT3 by [openAI](https://openai.com/) (specifically, the `text-davinci-003` model) 
 in May 2023.
-The letters were split into chunks of sentences that fit the context length of the model and translated separately. 
+The letters were split into chunks of paragraphs that fit the context length of the model and translated separately. 
 Therefore, context information within chunks is taken into account, but not across chunks. Each chunk was prefixed with
-the prompt `Translate the following text into English:`.
+the prompt `Translate the following text into English:`. 
 
 
