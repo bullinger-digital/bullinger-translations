@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12564">
+  <summary>
+    <p xml:id="regest1">Bullinger has nothing else to report, other than what Vadian will gather from the letter of the Zurich council. However, he does not want to let such a reliable messenger [Melchior Schlosser?] go without giving him a letter for Vadian. He also knows that Vadian is better informed than he is, and therefore asks for news.</p>
+    <p xml:id="regest2">- Ambrosius Blarer wrote today that the Frankfurt authorities have confiscated armaments that were intended for about 1000 imperial soldiers.</p>
+    <p xml:id="regest3">- On July 27, a company was dispatched from Basel down the Rhine to Strasbourg.</p>
+    <p xml:id="regest4">- Bullinger also thanks for the letter handed over to [...] Engellin concerning Vadian [not received] regarding Antronius [Abbot Kilian Germann of St. Gallen] and [Itelhans] Thumysen. Hopefully, Vadian will attend the meeting [of the Protestant city cantons in Zurich]!</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Grace and peace. I have nothing noteworthy, most illustrious man, except what you will learn from the letters of our council. They diligently report everything to yours. However, I did not want to let a reliable messenger come to you empty-handed. At least I give him the occasion to write. For I know that you have much more to share with me, which I ask you to do.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Furthermore, today Mr. Ambrosius Blarer writes: The people of Frankfurt have confiscated from the emperor armor for 1000 men, several thousand hooks, and several hundred barrels of gunpowder.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>On July 27, a company of soldiers from Basel traveled down the Rhine to Strasbourg. They were received around Basel. I have nothing more.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>I received your letters sent through Engellin of Antronius and Dumysius. I wish you would come to Zurich for the assembly!</p>
+      <p>Farewell. Zurich, July 29, 1546.</p>
+      <p>Bullinger.</p>
+      <p>To the most illustrious man, Mr. Joachim Vadian, his most esteemed lord. St. Gallen.</p>
+    </div>
+  </body>
+</letter>

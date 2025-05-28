@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file13121">
+  <summary>
+    <p xml:id="regest1">[1] Vadian has received Bullinger's dispatch [No. 3062] and has already skimmed through everything, so that he can return the documents shared with him with the current messenger [...]. He has also very well understood Bullinger's opinion on the current, dangerous situation.</p>
+    <p xml:id="regest2">[2] However, since he has just come from a council meeting, lunch is imminent, and the departing messenger must not be delayed for important reasons, he will elaborate on his views on all the topics addressed by Bullinger with the next available messenger.</p>
+    <p xml:id="regest3">[3] It is evident that the Confederates, who are hated by Emperor Charles V and his followers for several reasons, are undergoing a great, perhaps the very last trial, which will decide their freedom and fate. Therefore, it is more than ever the time to make wise provisions in favor of Helvetia to ensure its freedoms and well-being.</p>
+    <p xml:id="regest4">[4] Vadian has shared some of Bullinger's dispatch with the St. Gallen council, without revealing his source. The St. Gallen council is now sharing some of this information in writing with the Zurich councilors (whom Vadian also sends greetings to), which the mayors Hans Rudolf Lavater and Johannes Haab will certainly convey to Bullinger.</p>
+    <p xml:id="regest5">[5] Greetings. A detailed letter will follow soon [No. 3076 from November 14]. Dated the day after the November Nones.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>I have received all your dispatches in good faith and, having skimmed through everything, I return them with this messenger with great thanks. From your letters, I have clearly understood what you think and what seems best to you to do in these dire disturbances and dangers.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>However, since the council has just been dismissed and I have not yet had lunch, and for certain reasons, I dared not detain the messenger. With the next available messenger, I will fully inform you of my opinion on all matters.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>It is evident that we, for several reasons, are disliked by Emperor Charles V and his followers, and we are undergoing a great, perhaps the very last trial of our freedom and fortunes, so that it is plainly necessary, if ever before, to now most carefully consider the preservation of freedom and the well-being of Helvetia.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>I have recounted some of your dispatches to the council, but without mentioning the author. The council itself has written something to yours, which the mayors Hans Rudolf Lavater and Johannes Haab will not conceal from you, to whom you will commend me.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Farewell and expect a long letter soon. St. Gallen, the day after the Nones of November, 1547.</p>
+      <p>Joachim Vadian.</p>
+      <p>To the most excellent man, Mr. Heinrich Bullinger, bishop of the renowned city of Zurich, lord and friend to be especially honored.</p>
+    </div>
+  </body>
+</letter>

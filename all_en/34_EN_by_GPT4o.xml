@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file34">
+  <summary>
+    <p xml:id="regest1">In this book, Bullinger has not depicted the strenuous labors of Hercules, but rather the great work that the highly esteemed Apostle Paul, converter and teacher of the most powerful empires in Asia and Europe, painstakingly accomplished over 37 years.</p>
+    <p xml:id="regest2">Bullinger wrote his book within a month and now presents it to Gwalther, his beloved son and friend, even though he never promised it to him.</p>
+    <p xml:id="regest3">Gwalther, on the other hand, has not even begun the work on the commentary on the Book of Jonah, which he announced not just a month ago, but already six years ago! He has neither freed the prophet from the belly of the sea monster (and thus enabled the salvation of the inhabitants of Nineveh), nor finally delighted Bullinger with the long-awaited gift.</p>
+    <p xml:id="regest4">Greetings.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>To Rudolf Gwalther, his beloved son, greetings. In this book, my dearest son and godson, I have depicted not the labors of Hercules, but the struggles and labors of the most chosen instrument, Paul, the great conqueror and renowned teacher of the flourishing kingdoms of Asia and Europe, which he endured and overcame continuously for 37 years.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>And I completed the whole within a month, and I present this gift to you, which I never promised, but now offer with the utmost affection for you.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>You promised Jonah, not a month ago, but 6 years ago, and you have not yet delivered anything, nor have you pitied the excellent man swallowed by the belly of the whale, to set him free on the plain, so that he might both save the Ninevites from impending destruction through the most fervent preaching of repentance, and delight me with the most desired gift.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Farewell. February 10, 1548.</p>
+      <p>Your Bullinger.</p>
+    </div>
+  </body>
+</letter>

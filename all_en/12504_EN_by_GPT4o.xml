@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12504">
+  <summary>
+    <p xml:id="regest1">Due to [many] tasks and eye troubles, Gast can only now send the book catalog that Bullinger has often requested.</p>
+    <p xml:id="regest2">- Since he also did not know exactly in what form Bullinger wanted the spices, he sends them to him here in an uncrushed state.</p>
+    <p xml:id="regest3">- Regarding the princes and bishops [at the Imperial Diet in Regensburg], everything is shrouded in silence.</p>
+    <p xml:id="regest4">- Myconius allegedly has much to report [No. 2452]. At his request, Gast informed him that [now] a messenger is available.</p>
+    <p xml:id="regest5">- The citizens of Basel have performed [the tragicomedy] "The Conversion of Saint Paul".</p>
+    <p xml:id="regest6">- Greetings to Theodor [Bibliander], [Rudolf] Gwalther, and to Bullinger's wife [Anna, née Adlischwyler].</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings in the Lord. Here at last is the catalog of books, which you have so often requested from me. The reason for the delay in sending it was partly due to eye troubles and partly due to many tasks.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>I am also sending aromatic spices, but I was unsure whether you wanted them crushed or whole. I am sending them whole, so you don't think I was unwilling to serve you in this matter.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>I have absolutely no news. Everything is conducted in deep silence among the princes and bishops.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Myconius asked me to inform him if I encountered a messenger. I informed him, and he said he himself wanted to write and had many things that are worthy of being shared with good men.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Our citizens have performed the "Conversion of Saint Paul" with great humor.</p>
+    </div>
+    <div xml:id="div6" corresp="regest6">
+      <p>Farewell in the Lord. Please give my greetings to Theodor [Bibliander], Gwalther, and your wife. Basel, June 7, 1546.</p>
+      <p>Yours, Gastius.</p>
+      <p>To his dear Bullinger. Zurich.</p>
+    </div>
+  </body>
+</letter>

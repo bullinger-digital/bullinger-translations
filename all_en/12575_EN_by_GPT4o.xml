@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12575">
+  <summary>
+    <p xml:id="regest1">Panizzone wants to inform Bullinger that he is once again staying in the Confederation on a diplomatic mission on behalf of Milan.</p>
+    <p xml:id="regest2">- [In Bremgarten] he has again taken lodging at the inn of Marti, Bullinger's relative, whom the latter had once recommended to him. He has also persuaded the papal nuncio [Girolamo Franco] to do so.</p>
+    <p xml:id="regest3">- Apart from the departure on July 18 of the papal army assembled to support Emperor [Charles V.] from Bologna, Panizzone has nothing new to report. However, he could send Bullinger a copy of the treaty concluded between [Paul III.] and [Charles V.] by which the disobedient [of Germany] are to be forced into obedience. For his part, Bullinger should send any news about the war in Germany. Greetings to the councilors of Zurich and to Bullinger's family.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Most esteemed lord, I greet you with this letter to inform you that I have once again been sent to the Swiss Confederation on behalf of the state of Milan to observe and maintain good friendship and neighborliness. If I can be of any use to you in any way, I am yours, and the heavens have made me yours.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Since you once recommended your relative Martin Bollinger to me, I have taken lodging at his inn and persuaded the papal nuncio to do the same, as we both did and stayed with him! I will not fail to assist him whenever I can.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>I have no other news, except that the papal army left Bologna on July 18 to cross into Germany to support the Emperor. There is also a treaty made between His Holiness and His Majesty to bring the disobedient back to obedience, with or without arms. If you wish to see the said treaty, I will immediately send you a copy. If you have any new information about the German war, I would gladly learn from your letters, to whom and to the councilors of Zurich and your family I sincerely commend myself.</p>
+      <p>Bremgarten, August 7, 1546.</p>
+      <p>Entirely yours, Giovanni Domenico Panizzone.</p>
+      <p>To my most esteemed lord, Mr. H. Bullinger, etc. in Zurich.</p>
+    </div>
+  </body>
+</letter>

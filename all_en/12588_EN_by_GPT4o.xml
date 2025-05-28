@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12588">
+  <summary>
+    <p xml:id="regest1">Greetings from [Joachim] Vadian.</p>
+    <p xml:id="regest2">- Duke [Wilhelm] of Cleves leads 400 infantrymen with him; the Duke of Pomerania [Johann of Brandenburg-Küstrin] 200 cavalrymen. Both are near Nuremberg and are moving against the Protestants.</p>
+    <p xml:id="regest3">- Elector [Johann Friedrich] of Saxony and [Landgrave Philipp] of Hesse have sent a delegation to Nuremberg and urged the city to join the [Schmalkaldic] League. What was achieved is unknown. It is certain that the city's population is well-disposed towards the League. It is even said that a wagonload of money was sent to the Protestants.</p>
+    <p xml:id="regest4">- [Sebastian von Heusenstamm], Bishop of Mainz, has taken a city of the Landgrave. However, it is said that the Landgrave immediately recaptured it.</p>
+    <p xml:id="regest5">- The same Bishop wanted to let 1000 cavalrymen of [imperial Maximilian von Egmont, Count] of Buren, into Mainz. The population was able to prevent this and killed some horses in the process. The troops of the Landgrave, who had taken [Mainz-Kastel] on the other side of the Rhine, are said to have then entered Mainz and forced the Bishop and his clergy to barricade themselves in the Bishop's palace.</p>
+    <p xml:id="regest6">- Many, including Duke Maurice [of Saxony], Count Palatine [Friedrich II.] and [the cities of] Frankfurt and Strasbourg, oppose the [Count of] Buren, who comes to the aid of the Emperor [Charles V.].</p>
+    <p xml:id="regest7">- Duke Maurice has occupied all border crossings to the territories of the Bohemian [King Ferdinand with troops].</p>
+    <p xml:id="regest8">- The Emperor is said to still be in Landshut and plans to set up his camp near Regensburg.</p>
+    <p xml:id="regest9">- It is said that he has confiscated all ships [on the Danube].</p>
+    <p xml:id="regest10">- The [Schmalkaldic] have sent a delegation to Leutkirch and Wangen [in the Allgäu]. Both localities pledged loyalty [to the Schmalkaldic] and provide troops. These are supposedly going to reach Weingarten already in the coming night.</p>
+    <p xml:id="regest11">- On August 14, the Emperor declared war [on the Schmalkaldic]. On the 15th, he left Landshut towards Regensburg.</p>
+    <p xml:id="regest12">- He is also said to have sent a delegation to [Duke Wilhelm] of Bavaria in Munich.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Saturday, the 20th of August, from [...]berg.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Mr. Vadianus sends greetings.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Also, the Duke of Cleves, 400 infantrymen. Also, the Duke of Pomerania, 200 cavalry. These have moved near Nuremberg and towards (against) the Protestant side.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Also, the Elector and Hesse have sent their delegation to Nuremberg and requested to join and hold, etc. What was negotiated there is unknown, but the community is entirely willing. It is said that a wagon with money was sent from the city to the Protestants, etc. Very quiet there. Also, in Mainz, the bishop has taken a city from the Landgrave.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Called N. There, 10 of the Landgrave's troops have come, the others have been repelled and the city reoccupied.</p>
+    </div>
+    <div xml:id="div6" corresp="regest6">
+      <p>Also, the Bishop of Mainz wanted to let 1000 cavalry from the Count of Buren's troops into the city of Mainz. And when about 40 cavalry entered the city of Mainz, the community let the gate fall, killed some horses, and captured some. Afterwards, the 10 troops, who had conquered the city N. on the other side of the Rhine for the Landgrave, fell in overnight. They let the citizens in. When the bishop and clergy became aware of this, they all retreated to the castle.</p>
+    </div>
+    <div xml:id="div7" corresp="regest7">
+      <p>Also, many of the Count of Buren's troops, who are coming to aid the Emperor, are opposed, namely Duke Maurice, Count Palatine Friedrich, Frankfurt, Strasbourg, and others.</p>
+    </div>
+    <div xml:id="div8" corresp="regest8">
+      <p>Also, Duke Maurice has blocked all passes against the Bohemian, whom he does not trust.</p>
+    </div>
+    <div xml:id="div9" corresp="regest9">
+      <p>Also, the Emperor is said to be stationed at Landshut, and intends to camp at Regensburg, with 10 troops of infantry and 2000 cavalry.</p>
+    </div>
+    <div xml:id="div10" corresp="regest10">
+      <p>Also, the Emperor has also confiscated all ships, of which there are many. Also, Leutkirch and Wangen, both towns, have previously been sent a delegation. 3 troops, 100 cavalry, are coming. They will pledge allegiance to the Protestants, which they have done. And they expect to be in Weingarten tonight. Also, the Emperor has declared on the 14th of this month, and on the 15th he is said to have moved from Landshut to Regensburg.</p>
+    </div>
+    <div xml:id="div11" corresp="regest11">
+      <p>Also, the Emperor has sent a delegation to Munich. There lies Bavaria.</p>
+    </div>
+    <div xml:id="div12" corresp="regest12"/>
+  </body>
+</letter>

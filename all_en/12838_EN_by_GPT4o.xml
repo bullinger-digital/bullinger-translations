@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12838">
+  <summary>
+    <p xml:id="regest1">[1] Due to lack of time, just this brief message.</p>
+    <p xml:id="regest2">[2] The bearer is the notable Bernardino Ochino, who is warmly recommended to Myconius. He escaped Emperor Charles V and is returning to Basel. He will report on the situation in Augsburg himself. Greetings.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. I am compelled to write you only a few words, most esteemed Myconius, because my time is limited.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>The one delivering this to you is Bernardino Ochino, that distinguished servant of Christ, who was uniquely sought after by the Emperor, but his hopes were dashed. For the Lord delivered him from the mouth of the lion. He is returning to live among you. I commend him to you as if he were myself! He is pious and learned. He will explain everything about the affairs of the people of Augsburg better himself. Farewell. Zurich, 2nd of February, 1547. Your Bullinger.</p>
+      <p>To the esteemed Lord and brother, Oswald Myconius. Basel.</p>
+    </div>
+  </body>
+</letter>

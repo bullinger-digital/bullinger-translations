@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file24">
+  <summary>
+    <p xml:id="regest1">Burcher took the rare opportunity to write to Bullinger, even if it might be a burden to him. Shortly before his arrival in Strasbourg, he had sent him a copy of a letter from a learned and very biblically knowledgeable man [N.N.] on behalf of the righteous Richard Hilles [not received]. This was his response to several letters from Martin Bucer, in which the latter had tried to convince him of his understanding of the Lord's Supper and to lead him astray regarding the human nature of Christ. Burcher writes this letter especially because Hilles wants to know if the letter has arrived. Bullinger has never confirmed its receipt.</p>
+    <p xml:id="regest2">There is no news from England, except that the assembly, which the English call "Parliament," has been suspended until April 1st.</p>
+    <p xml:id="regest3">Bucer, who was apparently summoned by Emperor Charles V, left Strasbourg secretly about eight days ago. The departure in complete silence is remarkable! It is to be feared that he will not return in good health.</p>
+    <p xml:id="regest4">There is also talk of the persistence of Elector Johann Friedrich I of Saxony. He does not want to agree with the Emperor on any point that is contrary to religion. May God grant all true believers endurance until the end.</p>
+    <p xml:id="regest5">Greetings to all fellow pastors in Zurich.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Strasbourg, January 30, 1548. Greetings. Although the opportunity to write is small, I could not refrain from disturbing you with a few words during my leisure, dearest friend Bullinger. Shortly after my arrival in Strasbourg, I sent you a certain copy, by the order of the most upright Lord Richard, of a response from a very learned man with great judgment in the scriptures to letters frequently sent by Bucer to him, in which Bucer tried to draw him to his opinion on the Eucharist and lead him into this error concerning the humanity of Christ. But since you never informed us whether you received it, Lord Richard wanted us to inquire with you. This is the main reason why I have written.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>We have no news from England, except that the council, which we call Parliament, has been postponed to the first of April.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Bucer, as it is thought, was called by the Emperor and secretly left here for Augsburg eight days ago. We are amazed at the silence of his departure, and there is fear that he may not return easily.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>There is a report here about the steadfastness of the Duke of Saxony, that he absolutely refuses to agree with the Emperor against religion. May the Lord grant all the pious perseverance to the end.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>I greet all the brothers in Zurich. Farewell.</p>
+      <p>Yours, Burcher, the Anglo-Zuricher.</p>
+      <p>To the most vigilant pastor of the Zurichers, my esteemed Lord, Heinrich Bullinger. In Zurich.</p>
+    </div>
+  </body>
+</letter>

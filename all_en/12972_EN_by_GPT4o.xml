@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12972">
+  <summary>
+    <p xml:id="regest1">[1] Myconius will convey the news he received from Strasbourg with his letter [not preserved].</p>
+    <p xml:id="regest2">[2] King Henry II is recruiting mercenaries in the region around Basel.</p>
+    <p xml:id="regest3">[3] The wool is in the barrel that Johannes Oporinus packed and entrusted to a mounted messenger [...]. Except for the white wool in the smaller sack, which belongs to a second buyer [...], all other wool is intended for Bullinger. By passing it through a dye bath, almost all colors can be produced that are otherwise not found. However, this only works with genuine wool. Therefore, Bullinger must beware of counterfeit wool. The smaller sack weighs 5 pounds; the larger one for Bullinger weighs 15. Gast's wife [Apollonia, née Glaser] could not buy less. The red wool in the small package comes from Lyon. It is not available in Basel.</p>
+    <p xml:id="regest4">[4] One pound of wool costs 6 Batzen or 10 Schilling in Basel currency. Bullinger should calculate how much the 20 pounds cost. Gast's wife could not purchase the wool cheaper. She hopes to have bought beautiful wool from the large selection and to have satisfied Bullinger with it.</p>
+    <p xml:id="regest5">[5] Greetings to Anna [née Adlischwyler] and all the children.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings in the Lord. Myconius writes news that he received from Strasbourg.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>King Henry II is recruiting an army in these parts.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>The wool is in the barrel that Johannes Oporinus packed. You will find it there. All of it is yours, except for the white wool, which I am sending to you with the mounted messenger. The other wool in the small sack belongs to another. You can also make all the colors you do not find by simply passing it through a dye bath. You can create many different colors. The small bundle in the sack weighs 5 pounds; yours weighs 15 pounds. My wife could not buy less. There is also red wool in a small package. It is Lyon wool; it cannot be found here. Be cautious of counterfeit wool; this way, you can produce all colors.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>One pound of wool costs 6 Batzen or 10 Schilling in Basel currency. Calculate now what the 20 pounds bring. It is thus paid. If my wife could have gotten it cheaper, she would have done so. She hopes, however, that she has bought beautiful wool and selected it from a large heap. Therefore, take it as good.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Greet your wife Anna and the children. Farewell. June 3, 1547. Yours, Gastius from the heart.</p>
+      <p>This letter belongs to the well-learned master Heinrich Bullinger, priest at the Grossmünster in Zurich, my kind, dear lord and friend.</p>
+    </div>
+  </body>
+</letter>

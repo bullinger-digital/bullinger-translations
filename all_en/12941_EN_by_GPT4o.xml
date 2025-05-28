@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12941">
+  <summary>
+    <p xml:id="regest1">[1] It is heard here in St. Gallen that Emperor Charles V and Elector Johann Friedrich of Saxony have made peace. However, the origin of this rumor is an older letter from Nuremberg. The Elector has a well-equipped army, which grows day by day. The Emperor, also equipped with a good army, has left Eger in the direction of Zwickau. The Bohemians are more in favor of the Elector, especially since they hate King Ferdinand. The Emperor is also despised by everyone because of the shameless, greedy, and lewd lifestyle of his Italian and Spanish troops. The Bohemians hope that by God's grace, these hordes will be gotten rid of, so that the German land may free itself from the yoke of these foreign peoples (who were once under its control) again!</p>
+    <p xml:id="regest2">[2] The situation [of the Protestants] is bad! But God will not abandon His own, if they only continue to trust in Him!</p>
+    <p xml:id="regest3">[3] The authorities of Nuremberg have forbidden their citizens to write anything offensive about the Emperor in their letters.</p>
+    <p xml:id="regest4">[4] This is what Vadian wanted to report for this time. Greetings.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. There was indeed a rumor spread among us about peace made between the Emperor and the Elector; but the most recent letters brought from Nuremberg testify that this is not the case. The Saxon has a well-equipped army, which grows more and more each day. The Emperor, also equipped, has left the city of Eger and moved towards Zwickau. The Bohemians lean towards the Saxon; for they hate Ferdinand.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>However, the Emperor is hated by everyone because of the most insolent greed and lust of the Spaniards and Italians, and they would wish it so ordained by the merciful God, that with them removed, Germany, once the conqueror of foreign nations, would be freed from such a heavy yoke. Our affairs are in great danger; but He will be present for His own, provided we do not depart from Him with holy faith.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Nuremberg has forbidden its citizens to write anything against the dignity of the Emperor to foreigners.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>I did not want to keep this from you at present. Farewell.</p>
+      <p>St. Gallen, on the Kalends of May, in the year 1547. Joachim Vadian.</p>
+      <p>To the most distinguished man, Lord Heinrich Bullinger, bishop of the renowned city of Zurich, my most esteemed lord.</p>
+    </div>
+  </body>
+</letter>

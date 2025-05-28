@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file100">
+  <summary>
+    <p xml:id="regest1">The monastery bailiff [Anton Jenatsch] of the Chur school [St. Nicholas] was sent by the people of Chur to Zurich to find a replacement for the recently dismissed assistant teacher [N.N.]. He brought back the [former] Zurich scholar Jakob Keller [from Regensberg], whom the people of Chur gladly employed due to his suitability and impeccable conduct. They were completely sure that this was done in agreement with Keller's father [N.N.] and the Zurich school authorities.</p>
+    <p xml:id="regest2">However, they have now learned from Werlin Herus [Heer?], who had stopped in Zurich on his return journey from the [Frankfurt Spring] fair, that Keller had fled without his father's knowledge and even against the will of the Zurich school authorities (without saying goodbye)! This was very unpleasant for the people of Chur. They asked Keller to comment on this and received a response from him stating that his actions were well justified and that he intended to inform his father and the school authorities. He hoped that they would approve of his departure from Zurich in retrospect, once they understood that he had joined orthodox and good people who treated him well and entrusted him with a useful and honorable teaching position - a role where he could not only further his education but also attend lectures on classical literature.</p>
+    <p xml:id="regest3">Bullinger is therefore to inform the people of Chur about the consent of the father and the Zurich authorities, and advocate for Keller to be allowed to work as an assistant teacher in Chur (where his services are much needed) for some time. However, this should only happen if Keller's father and the Zurich school authorities agree!</p>
+    <p xml:id="regest4">Bullinger should also convey news with his reply.</p>
+    <p xml:id="regest5">The people of Chur thank Bullinger for his excellent work «Series et digestio temporum», which is of great benefit to the Gospel.</p>
+    <p xml:id="regest6">Blessings and greetings. In haste.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Johannes Blasius to his esteemed Bullinger, greetings. After we recently dismissed an assistant teacher from our school for just cause, most honorable sir in the Lord, we sent the bailiff of our monastery to Zurich to find a replacement. He finally brought us Jakob Keller from your college, whom we accepted as suitable for this position and endowed with excellent morals, not doubting in the least that this was done with the advice and consent of his father and the school authorities, etc.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>However, upon returning from the recent market, Werlin Herus reported to us the opposite, namely that Keller had fled without his father's knowledge, without saying goodbye to his host, and against the denial of the school authorities, etc., which we found quite distressing for everyone's sake. When we asked him for an explanation of this action, he replied that he had the best and most just cause for leaving, which he said he would write to both his father and his reverend masters, hoping that once his father and the chapter members understood that he had joined excellent men (who are of the same, that is, true and orthodox religion), who received him kindly, treated him with the utmost humanity, and appointed him to a useful and honorable position, where he could not only exercise himself in literature but also listen to the best authors, they would then approve of his departure and fully support his intention with all their wishes, etc.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Therefore, it will be your task, most esteemed Bullinger, to inform us about this matter, however it may stand. Therefore, if it can be done conveniently (with the father's consent and the school authorities), ensure that he can serve us for some time, since we currently need his services. If not, please let us know. For it is not our intention to act against his father's will or against the school authorities, etc.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>And if you have any news, include it in your most desired letters.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>We finally express our immense gratitude for your most elegant and holy work, to which you have inscribed and most clearly shown the very series of events and times, not without great benefit to the Gospel!</p>
+    </div>
+    <div xml:id="div6" corresp="regest6">
+      <p>May our Lord always preserve you as you ascend to holier things. Amen. In haste, Chur, April 23, 1548.</p>
+      <p>Your same from the heart.</p>
+      <p>To the most illustrious theologian, Mr. H. Bullinger, the most vigilant pastor of the Zurich church, his most esteemed lord and brother, etc.</p>
+    </div>
+  </body>
+</letter>

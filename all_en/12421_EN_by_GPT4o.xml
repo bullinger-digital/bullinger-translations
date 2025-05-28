@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12421">
+  <summary>
+    <p xml:id="regest1">Blarer transmits a letter from [Hans] Welser [No. 2369]. In it, Welser likely wrote the same thing to Blarer, namely, that Pope [Paul III] has promised the Emperor [Charles V] 700,000 guilders if he enforces the council [of Trent] by force [on those who refuse it]. May the Lord destroy [the Pope], the son of perdition, who desires the downfall of all good people!</p>
+    <p xml:id="regest2">- Greetings.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. I am sending to you the letters from our Welser, which I received yesterday. I believe he wrote the same thing to me about the Pope's efforts; that he has promised the Emperor 700,000 guilders to enforce the council by the sword, if he wishes to proceed in this manner. May the Lord destroy this son of perdition, who so eagerly desires the downfall of all good people, as soon as possible, to the glory of His Christ's kingdom!</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Farewell and pray for us. Greet the friends and brothers. March 9th. Yours, A. Bl.</p>
+      <p>To the most excellent man, Heinrich Bullinger, his most esteemed brother.</p>
+    </div>
+  </body>
+</letter>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file42">
+  <summary>
+    <p xml:id="regest1">Myconius has been waiting [until now] in vain for a letter from Bullinger, but is now writing [again] because he was asked to do so by the wife [N.N.] of Konrad Wedenschwiler.</p>
+    <p xml:id="regest2">Her husband is said to have fled from Basel together with [Timotheus Schauber] and is now staying in Zurich, after the two men had wounded an Augsburg student [N.N.] so severely in the neck that, according to the surgeons, he was in life-threatening condition. His wife, whom he left behind in Basel along with their little daughter, now wants to know whether he is in Zurich or not, what he is doing, and why he has not responded to her three letters. She is in great distress because she does not know where he is and what he intends to do. The [wounded] Swabian is beginning to recover, and there is hope that he will receive public compensation. However, Wedenschwiler's wife fears that her husband, in his desperation, might join the many Swiss men who, as it is heard, want to enter the service of Pope Paul III. Surely there is a way for him to return home, even if he has to pay [a penalty]! That is the concern of the wife.</p>
+    <p xml:id="regest3">Yesterday, a message arrived from a young Schaffhauser [N.N.] from Strasbourg: He heard a prominent man [N.N.] say that the people of Zurich, Bern, Basel, and Schaffhausen are asking Emperor Charles V for peace through envoys. When he boldly contradicted, he was almost beaten! So strongly did the other insist on his opinion.</p>
+    <p xml:id="regest4">Myconius knows nothing of the rumors that certain wicked people [N.N.] are spreading about the until now steadfast Constance.</p>
+    <p xml:id="regest5">Greetings, also to Rudolf Gwalther.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>I am longing for your letters, but in vain. What I am writing now, I do so because I was asked.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Konrad Wedenschwiler is said to be with you, as they say, who, together with another, wounded the neck of a student from Augsburg here so dangerously that the wound threatened death according to the surgeons. He fled with his companion, leaving behind his wife and little daughter. She asked me to write to you to find out if he is in Zurich or not, what he is doing, and why he does not respond to his wife's three letters. She is greatly troubled because she does not know where he is and what he intends to do. The Swabian is beginning to recover, and there is hope that he will soon be able to enjoy public life. There is a rumor that soldiers from Switzerland are going to the Pope in great numbers. The wife fears that he, driven by despair, might also run off. If he stays, a way can surely be found for him to return to the city, even if something has to be paid. You have what she asks through me.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Yesterday, a letter arrived from Strasbourg written by a young man from Schaffhausen. In it, he says he heard from a prominent man that the people of Zurich, Bern, Basel, and Schaffhausen have a delegation with the Emperor and are seeking peace. When the young man boldly denied it, there was a danger he might be beaten. So firmly did the other assert what he had narrated.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Regarding Constance, I do not know what evil some are murmuring about it, which has been steadfast until now.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Farewell in the Lord Jesus with Gwalther. Basel, February 14, 1548.</p>
+      <p>Yours, Oswald Myconius.</p>
+      <p>To the most learned Heinrich Bullinger, in his Lord. Zurich.</p>
+    </div>
+  </body>
+</letter>

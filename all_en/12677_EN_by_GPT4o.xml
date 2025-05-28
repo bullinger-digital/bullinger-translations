@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12677">
+  <summary>
+    <p xml:id="regest1">[1] Through Bullinger's regular writing, Myconius had to realize that not all reports should be simply believed, even if they are considered certain. But why does Bullinger write nothing about the important matters of the poisoned salt and the occupation of Donauwörth [by the Emperor]? Are these perhaps also false rumors?</p>
+    <p xml:id="regest2">[2] In Basel, there was an Italian well-known to the local citizens, who transported books from Germany to Italy. He reported that on his journey to Basel, he encountered an envoy from Lucerne [Jost von Meggen], who was on his way to the Pope [Paul III.] to explain why the Five Pagan Places had not joined the Emperor, namely because they are so surrounded by their heretical neighbors that they cannot leave their homeland safely. Based on the Italian's description of the envoy, it could be Nikolaus von Meggen.</p>
+    <p xml:id="regest3">[3] The Italian further reported on the end of the peace agreement with [Sultan Suleiman I.]. He currently has two embassies in Venice, but their mission is unknown. However, the reporter learned that the Sultan plans to attack Sicily.</p>
+    <p xml:id="regest4">[4] [Johannes] Gast is in possession of a booklet about the outrageous tyranny that the Emperor exercises in the Netherlands, including in Antwerp. Bullinger will certainly receive the writing from Gast.</p>
+    <p xml:id="regest5">[5] [Johannes] Haller wrote from Augsburg and asked for news. Myconius had to laugh because he actually expected news from him!</p>
+    <p xml:id="regest6">[6] The abbot [...] of a town near Mechelen promised the Emperor 50,000 guilders. But suddenly, the latter wanted 100,000! The town learned of this, withheld the money, and informed the Emperor's messenger [...] that he would be hanged if he returned.</p>
+    <p xml:id="regest7">[7] Greetings to [Konrad] Pellikan and Theodor [Bibliander], who neglects Myconius! [Rudolf] Gwalther should be well!</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. Through your diligent and frequent writing in these miserable times, you have brought me to the point where I do not believe (except in your writings), even if the things written or reported are certain. Therefore, I wonder why you have not mentioned the troubles about the poisoned salt and the occupation of Donauwörth, for I know both to be somewhat true; however, I do not know the truth. For while various accounts are given, I remain in doubt.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>There was an Italian here, very well known to us, who carries books from Germany to Italy. He reported that on his journey he met an envoy, who was from Lucerne, on his way to the Pope, to defend the Five Pagan Places, because at this time they have not gone to the Emperor; for they are so surrounded by heretics that they could not safely leave their homeland. From the description, it seemed to me to be Nikolaus von Meggen, the standard-bearer of the city of Lucerne.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>The same Italian reported: The truce with the Turk has now ended. He had two embassies in Venice, but what they accomplished, he could not learn. He finally understood this: On this occasion, he will seek Sicily.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Gast has a booklet about the tyranny that the Emperor uses in Lower Germany, such as in Antwerp and elsewhere. Nothing like this has ever been heard. He will certainly send the booklet.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Haller wrote from Augsburg. Among other things, he asks that I write something new. In the most sorrowful time, I smiled, while he asks me, from whom I expected news.</p>
+    </div>
+    <div xml:id="div6" corresp="regest6">
+      <p>An abbot not far from Mechelen, yet of another city, promised the Emperor 50,000 guilders. Now he asks for 100,000. The city learned of this and withheld the counted money, dismissing the messenger and instructing him not to return, lest he be hanged.</p>
+    </div>
+    <div xml:id="div7" corresp="regest7">
+      <p>Farewell in Christ with your companions, Pellikan and Theodor, neglecter of Myconius! May Gwalther be well! In Basel, hastily, October 17, 1546. Yours, Oswald Myconius.</p>
+    </div>
+  </body>
+</letter>

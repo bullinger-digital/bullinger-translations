@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file13100">
+  <summary>
+    <p xml:id="regest1">[1] The people of Zurich will be informed about the reconciliation [plan] of the people of Konstanz [with Emperor Charles V] and the difficulties they are currently facing, with a letter from the council. Bullinger will be able to gather more details from the letter. Blarer has no time to write, and there is nothing else to report. The people of Zurich should earnestly pray for the people of Konstanz, so that they find means and ways out of their misery and do not abandon God.</p>
+    <p xml:id="regest2">[2] Bullinger should report on the Diet, which is supposed to deliberate on France in Baden or Lucerne. Is it true that delegations from Venice and from Pope Paul III are negotiating in the Confederation?</p>
+    <p xml:id="regest3">[3] The people of Ravensburg must pay King Ferdinand I 18,000 guilders and allow the Catholic citizens to attend mass outside the city. They should never have allowed the latter! God have mercy!</p>
+    <p xml:id="regest4">[4] Greetings.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Dear sir and brother, I hear that my lords are writing to yours regarding their reconciliation and the difficulties they are currently facing. You will find everything in their letter. I cannot write. I also have no other news. Oh, earnestly and sincerely, with all the pious and your entire church, pray for us, that God does not let us be put to shame, but rather shows us good ways and means by which we can come out of these difficulties and remain with the salvation of our souls.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Let me know about the day in Baden or Lucerne and France. It is said that a Venetian and papal delegation is negotiating with some Confederates. Let me know.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Ravensburg must give the king 18,000 guilders, and they have had to agree to let their Catholic citizens go out to hear mass outside the city - which they should not have agreed to in any way. God have mercy on them and on all of us!</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>May all yours be well. Ours greet you. 23rd October 1547.</p>
+      <p>To Master Heinrich Bullinger in Zurich.</p>
+    </div>
+  </body>
+</letter>

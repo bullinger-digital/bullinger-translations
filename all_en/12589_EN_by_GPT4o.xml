@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12589">
+  <summary>
+    <p xml:id="regest1">300 Spaniards, who were on their way to Ingolstadt, were tracked down by [Schmalkaldic] horsemen and took refuge in a church, where they will likely meet their end.</p>
+    <p xml:id="regest2">- [Francesco] di Castellalto is leading 4000 men from the Adige [valley] to Emperor [Charles V.].</p>
+    <p xml:id="regest3">- Denmark and the Hanseatic cities have surrounded Groningen in Friesland.</p>
+    <p xml:id="regest4">- The [Schmalkaldic troops] are besieging Ingolstadt, where several imperial banners are located. The Bavarian nobility wants to remain neutral.</p>
+    <p xml:id="regest5">- [The Schmalkaldic League] has dispatched an embassy to Nuremberg, which wanted to be heard not by the Secret Council, but by the Great Council. When asked which side [Nuremberg] was on, [the council] assured them that they would support the [League], so they should be left in peace. The embassy, which made it clear to the council that they were well informed about the city's population's inclination towards the League, demanded a clear answer, which Blarer does not yet know.</p>
+    <p xml:id="regest6">- The German troops of the imperial army are stationed near Landshut, the [Italian and Spanish] near Moosburg [on the Isar].</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>300 Spaniards were on their way to Ingolstadt. However, they were tracked down by some of our horsemen and took refuge in a church. There they are besieged. It will be their graveyard.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Castellalto is leading 4000 men from the Adige to the Emperor.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Denmark and the Hanseatic cities have besieged Groningen in Friesland.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Our forces are now besieging Ingolstadt, where several imperial banners are located. The Bavarian nobility wants to remain unharmed.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Our delegation has been to Nuremberg. When the six secret lords wanted to hear them, they requested to be heard by the entire council, which was granted. When asked for clarity on whom they would support, they assured us of their assistance to the best of their ability, so they should be left in peace. However, the delegation was not satisfied and demanded a Lutheran. I do not know what the response was. Our people also made it known during the recruitment that they are well aware that the community is well-disposed. The Emperor's army is stationed near Landshut, while the Italians are near Moosburg, etc.</p>
+    </div>
+    <div xml:id="div6" corresp="regest6"/>
+  </body>
+</letter>

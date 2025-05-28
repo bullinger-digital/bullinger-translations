@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file13010">
+  <summary>
+    <p xml:id="regest1">[1] Frölich does have a suitable letter carrier [Thoman Ruman], but unfortunately nothing appropriate to communicate. He asks for indulgence.</p>
+    <p xml:id="regest2">[2] Ruman, who wanted to leave Augsburg at any cost and insisted stubbornly, was released by the Augsburg council quite thoughtlessly. Frölich learned that the good man did not even receive travel money for his hasty and decisive decision. And given the current situation, he cannot help him further now.</p>
+    <p xml:id="regest3">[3] Today, Fernando Álvarez de Toledo, the Duke of Alba, appeared with a large entourage. Emperor Charles V will probably arrive the day after tomorrow. There has not even been a proclamation for the Reichstag planned in Augsburg. Everything is being turned upside down!</p>
+    <p xml:id="regest4">[4] Ambrosius Blarer wrote that the Swiss Confederates are as united as they have not been for a long time. Of course, unity is worthwhile [now]!</p>
+    <p xml:id="regest5">[5] Ruman will report everything else. Bullinger should pray for the people of Augsburg. May God protect the people of Zurich again! Greetings to Rudolf Gwalther and all the faithful.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. I have a suitable letter carrier, but unfortunately, the subject matter to write to you is less appropriate. Therefore, I ask for your indulgence for my negligence.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Our Ruman has entirely decided to leave here, and since he persistently requested to depart, the council released him, which seemed to me a very unwise decision. I also hear that, as far as travel expenses, etc., are concerned, he was not provided for as he should have been, which is attributed to the excessive haste and the decree of his stubborn departure. In these turbulent times, I could not assist the good man.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Today, the Duke of Alba arrived here with a large number of followers. The day after tomorrow, the Emperor may also arrive. The Reichstag is supposed to be held in Augsburg, although none has been announced yet. An incredible change of events is unfolding!</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Our mutual brother Ambrosius Blarer wrote to me that the Swiss Confederates are getting along excellently. Among other things, he asserts that they have united their spirits with such fervent zeal as never before. Indeed, unity is a great asset!</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Lord Ruman will tell the rest. Pray to the Lord for us! May the Lord protect you in return. Amen. Greetings to Rudolf Gwalther and your entire congregation of the faithful. July 22, 1547. Yours, Georg Frölich (Laetus), etc.</p>
+      <p>To Lord Heinrich Bullinger, incomparable friend.</p>
+    </div>
+  </body>
+</letter>

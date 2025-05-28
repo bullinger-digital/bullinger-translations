@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12579">
+  <summary>
+    <p xml:id="regest1">Since Blarer cannot write due to his headaches, he asks Bullinger through Konrad Zwick to report to him immediately after the end of the assembly in Baden and at his expense with a messenger. Blarer is particularly interested in the negotiations between France and the Swiss Confederates. He will share the reason later.</p>
+    <p xml:id="regest2">- [P.S. from Zwick:] To confirm his request, Blarer has signed it by hand. [Addition from Blarer:] As if the letter would not achieve anything otherwise!</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Gracious, dear sir, since Master Ambrosius is currently very ill and writing causes him great pain, he has instructed me to earnestly request on his behalf that as soon as the upcoming day in Baden has ended, you confidentially report to him at his expense through a private messenger about what has been decided between France and the Swiss Confederates, as well as any other matters you are allowed to write about. He is particularly interested in knowing this as soon as possible, and he will inform you of the reason later. Therefore, let this inquiry be of importance to you.</p>
+      <p>Conrad Z.</p>
+      <p>Ambr. Blaurerus.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>M. Ambrosius has signed this himself by hand as a testimony of his request. As if the letter would not achieve anything otherwise!</p>
+    </div>
+  </body>
+</letter>

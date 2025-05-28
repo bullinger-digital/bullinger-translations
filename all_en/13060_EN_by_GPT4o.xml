@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file13060">
+  <summary>
+    <p xml:id="regest1">[1] Count Georg of Württemberg sent a servant [...] with a letter to Blarer and inquired about his sermons and other duties. Blarer had to reply to him in great haste and also shared news that Bullinger would already be aware of. It is certain that he now has no time left for writing at all.</p>
+    <p xml:id="regest2">[2] However, he wants to thank Bullinger for his last letter [not received]. Bullinger should explain why he warns the people of Konstanz to pay attention to everything that is imported into or passed through the city; this way, they can be even more vigilant.</p>
+    <p xml:id="regest3">[3] He should also earnestly pray for Konstanz. In great haste, around two o'clock [in the afternoon] and before the evening sermon.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Friendly dear brother, my gracious lord Count Georg had a servant here with a letter to me, to which I had to reply in the greatest haste because of preaching and other duties. I have noted what news I know at this time. I do not intend to withhold (keep back) anything from you. I can write you absolutely nothing.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Thank you most sincerely and highly for your diligent writing. Regarding your warning that one should be vigilant (pay attention) to what is brought in or passed through here, I earnestly ask you to inform me why such things happen; so that one can be even more vigilant.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Earnestly praying to God, truly, truly for us! In the greatest haste, on the 11th of September, after two o'clock, before the evening sermon, 1547. Yours, A. Bl.</p>
+      <p>To Master Heinrich Bullinger in Zurich.</p>
+    </div>
+  </body>
+</letter>

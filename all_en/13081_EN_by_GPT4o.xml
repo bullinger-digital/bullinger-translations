@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file13081">
+  <summary>
+    <p xml:id="regest1">[1] Bullinger recommends the learned, pious, and very reliable bearer, Ludwig Lavater, the son of the Zurich mayor Hans Rudolf. Ludwig will present his request himself. Myconius should assist him with it!</p>
+    <p xml:id="regest2">[2] Hopefully, he has received Bullinger's letter [No. 3020, which was enclosed with Johannes Haller's letter No. 3005] through Hartmann von Hallwyl. Bullinger would like to have [Haller's letter] back. He encloses two letters with the present letter [Haller's and Ambrosius Blarer's letters No. 3017 and No. 3023], which Myconius should give back to the bearer. Due to the many tasks, Bullinger must end here.</p>
+    <p xml:id="regest3">[3] He has not received Francisco de Enzinas’ letter, which was given to Christoph Froschauer, who was returning from the Frankfurt [Autumn Book Fair]. Enzinas is greeted. As soon as Bullinger is able, he will reply to him. Greetings also to Johannes Gast, from whom he still has not received the edition of Persius’ [Satires]. Regards. Nine o'clock at night.</p>
+    <p xml:id="regest4">[4] [P.S.:] Myconius should also greet the Basel city clerk Heinrich Ryhiner and ask him, in Bullinger's name, to assist Ludwig Lavater.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. I commend to you, my dearest Myconius, this son of the consul Lavater, a learned and pious man, very diligently. Help him! He himself will explain to you why he is there.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>I hope you have received my letters from Hartmann von Hallwyl. As I mentioned in the written letters, I request them back. I am sending two enclosed letters with this, but with the condition that you return them through this bearer. Due to business, I could not write more.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Mr. Dryander wrote to me through Froschauer, who is returning from Frankfurt. Please greet him most amicably. I will write to him as soon as I am able, given my occupations. Greetings also to Gast, from whom I have not yet received Persius. Farewell. Zurich, October 5th, around 9 at night, 1547. Bullinger.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Convey my greetings to your city clerk and ask in my name that he take care of this Ludwig's cause.</p>
+      <p>To Mr. Myconius. Basel.</p>
+    </div>
+  </body>
+</letter>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12642">
+  <summary>
+    <p xml:id="regest1">Blarer wrote to Bullinger on [September 20] with the bearer [...] of the letter and money shipment intended for [Hans] Schöner [No. 2592].</p>
+    <p xml:id="regest2">- Emperor [Charles V] is in Ingolstadt.</p>
+    <p xml:id="regest3">- The Italians and Spaniards [of the imperial army] have strange customs. A Spaniard [...] consummated the marriage with an Italian woman [...] in the side chapel of the church, while the access was blocked by the servants of the groom.</p>
+    <p xml:id="regest4">- The [Schmalkaldic League] is still near Donauwörth. Their plans are unknown. The Italian [troops] are unwilling and some are leaving, even though the Emperor has ordered the execution of deserters. The German soldiers [of the imperial army] are also displeased, as apparently a plague is rampant in the camp, hardships must be endured, and there is a lack of money. It would be good to have this matter behind us!</p>
+    <p xml:id="regest5">- The Venetians do not want to make enemies of the Germans.</p>
+    <p xml:id="regest6">- There is said to be a renewed discord between France and England. Blarer does not know the details.</p>
+    <p xml:id="regest7">- Bullinger should pray.</p>
+    <p xml:id="regest8">- [P.S.:] Greetings.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>I wrote to you three days ago via the post, also sending letters to Schöner with money. There is absolutely nothing new to report now.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>The Emperor is in Ingolstadt in the city.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>The Italians and Spaniards have strange customs. A Spaniard became fond of an Italian woman. He gained her consent. Afterwards, in the church, they were led to a side chapel. His servants had to guard the entrance until he had satisfied his desires, etc.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Our people are still near Donauwörth. It is not known what they intend to do. The Italians are very unwilling. They are leaving daily, even though the Emperor has ordered the execution of deserters. Similarly, the German soldiers are also very displeased, as it is consistently said that a plague is among the Emperor's soldiers and there is a great lack of everything, including money. I do not know how it will turn out. It would be good to be done with this matter.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>The Venetians do not want to make enemies of the Germans.</p>
+    </div>
+    <div xml:id="div6" corresp="regest6">
+      <p>There is said to be some new discord between France and England again. I cannot hear exactly how or what.</p>
+    </div>
+    <div xml:id="div7" corresp="regest7">
+      <p>Farewell well, my venerable and dearest Bullinger, and diligently intercede with the Lord for me and our church. September 22, 1546.</p>
+    </div>
+    <div xml:id="div8" corresp="regest8">
+      <p>Yours, Amb. Bl.</p>
+      <p>Greetings to the brothers and friends. All of ours greet you.</p>
+      <p>To his Bullinger. Zurich.</p>
+    </div>
+  </body>
+</letter>

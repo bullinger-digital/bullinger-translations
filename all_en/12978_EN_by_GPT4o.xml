@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12978">
+  <summary>
+    <p xml:id="regest1">[1] When Sebastian Schertlin returned to Konstanz, he learned that Emperor Charles V had moved away from Magdeburg and was heading towards Halle because he had discovered that the [Protestant] forces were gathering at Magdeburg.</p>
+    <p xml:id="regest2">[2] King Ferdinand has taken leave of the Emperor and is heading to Bohemia.</p>
+    <p xml:id="regest3">[3] In Naples, up to 310,000 peasants have gathered.</p>
+    <p xml:id="regest4">[4] The Emperor is said to be recruiting troops again.</p>
+    <p xml:id="regest5">[5] Schertlin wanted to inform Bullinger and Mayor Johannes Haab of this and remains at their disposal.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>My willing service and all the best beforehand. Gracious, dear sir, when I came here, I found that the Emperor, upon noticing that all the forces of our side were gathering at Magdeburg, turned away from Magdeburg and is heading towards Halle.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>The Roman King has separated from him and is heading to Bohemia.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>In Naples, the peasants are said to be gathered up to 310,000.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>The Emperor is said to be recruiting troops again. May God grant all goes well.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>I should not have withheld this from you, Mayor Johannes Haab, along with the expression of my willing services, nor have I wanted to hide it with my message. Given in Konstanz, on the day of John, in the year 1547. Schertlin, knight, signed.</p>
+      <p>To the honorable and well-learned Master Heinrich Bullinger, pastor in Zurich, etc., my gracious lord and trusted friend.</p>
+    </div>
+  </body>
+</letter>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12944">
+  <summary>
+    <p xml:id="regest1">[1] Lavater received from the deliverers [...] Bullinger's letter [not received], with which he was called back to Zurich. These young scholars set out on their return journey the very next day. However, he was not ready to depart with them so quickly because he could not have taken his books with him and also had some matters to attend to. He hopes this will not be taken amiss. The young scholars would have been pleasant companions. He knows them, even if he himself may be unknown to them. Lavater complies with the wish of his father [Hans Rudolf] and will return to Zurich as soon as possible.</p>
+    <p xml:id="regest2">[2] He and also the deliverers will report news from Strasbourg. Now he just wants to briefly inform that Bullinger's letter has arrived and that he is not delayed due to illness or disobedience.</p>
+    <p xml:id="regest3">[3] Greetings, also to his father and mother [Anna, née Röichli], as well as to Bullinger's family.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings and best wishes. I received your letter, reverend father, in which I am called back to my homeland, as the couriers were to depart the following day. However, in such haste, I could not join them as a companion, fearing that the burden of my books would be left behind! Moreover, there were also some other matters to attend to. Their company would indeed have been most pleasant for me. They are honorable and learned young men. I know them, even though perhaps I am not known to them. Therefore, I hope you will consider what has happened favorably. As my father wishes, I cannot disapprove of his counsel. As soon as it is conveniently possible, I will make my way to Zurich.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>You will be able to learn what news there is with us, partly from those young men and partly from me. I wanted to signify this briefly, so you understand that I have received the letter, and do not think that I did not join them due to ill health or some disobedience.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Farewell. Do not disdain to greet my parents and your family in my name. Strasbourg, 4th of May, 1547. Yours sincerely, Ludwig Lavater.</p>
+      <p>To the most honorable Heinrich Bullinger, most faithful minister of the Church of Zurich, my patron. Zurich.</p>
+    </div>
+  </body>
+</letter>

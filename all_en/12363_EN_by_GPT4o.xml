@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12363">
+  <summary>
+    <p xml:id="regest1">The enclosed letter [No. 2309] was written by Blarer eight days ago, but the person intended to deliver it [...] ultimately traveled elsewhere. Since then, there is nothing new to report. Also, the messenger [Michael Mörikofer] sent three weeks ago by the [Konstanz] council to [Thomas Blarer at the Schmalkaldic League in Frankfurt] has not yet returned.</p>
+    <p xml:id="regest2">Blarer requests news from Zurich and Bern. The rumor mentioned in [No. 2309] about [the capture] of the Landgrave [Philip of Hesse] proved to be unfounded.</p>
+    <p xml:id="regest3">Greetings and New Year's wishes.</p>
+    <p xml:id="regest4">Blarer requests the quick delivery of a letter to Jakob Röist's wife [Barbara, née von Ulm].</p>
+    <p xml:id="regest5">[P.S.:] Joachim Mötteli reports that the Zurich mercenaries did not have to pay a fine upon their return home. Blarer cannot believe this, especially since problems would arise from it. Bullinger should report.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. The letters you receive here, my dear Bullinger, I wrote eight days ago, but the person who claimed he would travel to you changed his plans and went elsewhere. But even now, nothing new has come up, nor has any message been sent back from my brother, who is in Frankfurt, whom the council arranged to send to him three weeks ago.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>We are very eager to hear something certain about your affairs. Various things are being said about the people of Bern. I am now entirely convinced that the rumors I wrote about in the other letter regarding the Landgrave are unfounded, as no confirmation of the rumor has followed.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Farewell, my venerable and dearest brother, and commend us to Christ in a Christian manner. I pray that He may grant you and all yours the happiest beginnings of the coming year, and a more than fortunate progress and conclusion.</p>
+      <p>In Konstanz, December 30, 1545.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>I earnestly request that you ensure the letters addressed to Jakob Röist's wife are delivered to her as soon as possible, so she can respond with a word or two.</p>
+      <p>Yours, Ambrosius Blarer.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Joachim Mötteli has reported here that the Zurich mercenaries did not have to pay any fines upon their return. This does not seem credible to me.</p>
+      <p>If it were true, I worry it might set a bad example for others (since our mercenaries are also returning), if people now want to follow your example. Let me know with a word how things stand.</p>
+      <p>To the honorable, highly learned Master Heinrich Bullinger, my beloved lord and brother in Zurich.</p>
+    </div>
+  </body>
+</letter>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12883">
+  <summary>
+    <p xml:id="regest1">[1] Claudius thanks for Bullinger's friendly letter [not received]. Bullinger need not have apologized for his prolonged silence. Claudius knows how busy he is and does not doubt his goodwill. Claudius is already glad to know that his insignificant letters are perceived as a sign of his affection for Bullinger. He loves the company of scholars, especially those who, like Bullinger, have rendered service to the Church.</p>
+    <p xml:id="regest2">[2] The purpose of this letter is only to ask Bullinger to forward the enclosed letter to Francisco de Enzinas. Greetings.</p>
+    <p xml:id="regest3">[3] [P.S.:] Claudius' employer, Hieronymus Sailer, sends his regards and requests any news, including about the Diet of Baden.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>I received your very kind letter, in which you excuse the silence of your interrupted duty of writing, which, by Hercules, was not necessary for me. For I know how occupied you are with so many and such great matters, that I do not doubt your regard for your friends. I only seem to ask this from you, that you kindly accept and read mine; although they contain nothing worthy of you, I want them to be signs of my love for you; for indeed, nothing is more pleasant and important to me than to have the company of the most learned men - especially those who have rendered good service to the Church (among whom you are easily the foremost in these times).</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Nor do these now contain anything new, except that you send the enclosed letters to Herr Dryander and fare well in Christ. March 3, 1547. Matthias Claudius, devoted to your kindness.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Herr Sailer greets you most dutifully and asks, if you have any news about the Diet of Baden or other matters, to inform him.</p>
+      <p>To the venerable Heinrich Bullinger, preacher in Zürich, his most esteemed lord and friend. Zürich.</p>
+    </div>
+  </body>
+</letter>

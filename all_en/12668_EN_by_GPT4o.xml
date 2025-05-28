@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12668">
+  <summary>
+    <p xml:id="regest1">[1] Today, a young neighbor from Augsburg is setting off for Zurich. He will deliver Haller's news about the war [No. 2619]. He arrived while Haller was having breakfast and agreed to take a letter with him.</p>
+    <p xml:id="regest2">[2] The troops of Emperor [Charles V] are very close and are making sorties against the city. During a night reconnaissance, a troop of Augsburg horsemen and marksmen encountered Spaniards who intended to set a nearby village on fire. 20 Spaniards were killed, 13 captured, and brought to Augsburg.</p>
+    <p xml:id="regest3">[3] Bullinger should pray for Augsburg, as the danger is great. The imperial army is encamped at Donauwörth. The [Schmalkaldic League] is following them and is located at Höchstädt.</p>
+    <p xml:id="regest4">[4] Haller is sending the “Expostulatio” [by Johannes Schradin].</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. Today, a certain young man from our citizens, my neighbor, set off to visit you, through whom I have more fully conveyed the miserable state of our war. Now, while I am at breakfast, this young man conveniently offers himself to me, asking if I wish to write anything.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>I have only this to say, that last night (because the Emperor's troops are nearby and making incursions against our city) some of our horsemen with marksmen sent out a reconnaissance, lest any unexpected harm should arise. They found some Spaniards in a certain village intending to set it on fire. They attacked them, killed about 20, and today brought 13 captives into the city. What will happen to them, I do not know.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Pray to the Lord for us! For we are in no small danger. The Emperor's army has set up camp near Donauwörth. Our forces are again threatening them, having encamped at a certain village, Höchstädt.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Farewell. I am sending you here the most learned “Expostulatio” of Germany with Charles. 13th October 1545, during breakfast. Johannes Haller, entirely yours.</p>
+      <p>To the most excellent man, Heinrich Bullinger, the most faithful watchman of the Church of Zurich, his dearest lord and father.</p>
+    </div>
+  </body>
+</letter>

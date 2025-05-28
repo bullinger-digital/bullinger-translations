@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12440">
+  <summary>
+    <p xml:id="regest1">As someone [...] is heading to Basel, from where [Johannes] Gast can forward the letter to Bullinger, Cousin would like to take the opportunity to greet Bullinger and inform him that he has now returned well from his mission to France and can continue to be of service to Bullinger.</p>
+    <p xml:id="regest2">- Bullinger should remain in good health! Cousin hears him, even sees him daily while reading his writings. He appreciates the moderation with which Bullinger defends himself, and he has also already read the majority of his [Mark] commentary.</p>
+    <p xml:id="regest3">- Greetings.</p>
+    <p xml:id="regest4">- [P.S.:] Greetings also to [Theodor] Bibliander, [Konrad] Pellikan, and Konrad Gessner, whose “Bibliotheca [universalis]” Cousin has not yet been able to see.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>S.P. Since the person who will deliver this to our Gast has indicated that he will go directly to Basel, I thought it was in line with my respect for you to take this opportunity to greet you after such a long time and to inform you that after my return from the French mission, I am here working at my former mill, so that you may know where in the world you can exercise your old rights over me. For if ever, now more than ever, my dedication to you is strong; which I promise to prove more by deeds than by words. Certainly, for your sake, my dear Bullinger, I will attempt anything, and I urge you again and again to put me to the test.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Meanwhile, keep yourself safe for us, for as long as you live, we believe that both the literary republic and the Christian name will be well advised. I (as much as I am able) hear you daily speaking in your writings and almost see you. I am especially delighted by your defenses. For they exude the highest doctrine and that admirable moderation of spirit which I most approve. I have already read a good part of your annotations. Farewell, and may you be well, and always consider me in your debt. I ask and beseech you to let me know how you are and if you are working on anything new. Farewell again.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Given at Nozeroy, 8 days before the calends of April in the Christian year 1546. Your most devoted and respectful</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Gilbert Cousin of Nozeroy. I send greetings to Konrad Gessner, the excellent physician, whose work "Bibliotheca" I have not yet had the chance to obtain or see, to Theodor Bibliander, Konrad Pellikan, and the other churchmen.</p>
+      <p>To the most outstanding man, Lord Heinrich Bullinger, theologian, his esteemed teacher. In Zurich.</p>
+    </div>
+  </body>
+</letter>

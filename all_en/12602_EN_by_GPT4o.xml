@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12602">
+  <summary>
+    <p xml:id="regest1">Myconius had no better paper at hand in his haste.</p>
+    <p xml:id="regest2">- Some [Protestant Confederates] want to help the imperial cities, regardless of what the Five Places say. Bullinger should also motivate the [Zurichers] to do so.</p>
+    <p xml:id="regest3">- Although the Hessians were on guard, the army [of Maximilian von Egmont, Count of Buren] managed to cross the Rhine at Bingen.</p>
+    <p xml:id="regest4">- There is unrest in Sundgau and Alsace for unclear reasons. In Ensisheim, fortifications made of oak wood are being built.</p>
+    <p xml:id="regest5">- The cunning Emperor [Charles V] is said to have moved from Landshut to Regensburg and plans to continue to Passau. He probably aims to tire the Germans and exhaust their financial resources to be more successful against them in the coming year!</p>
+    <p xml:id="regest6">- From all places, countless Swiss want to march against him. Thus, very battle-ready Zurichers, Bernese, Bielers, Churers, Lucerners, and Zugers come through Basel. However, many have to return because there is a lack of money. Foreigners, who do not know the old custom [of mercenary service], expect the Confederates to raise an army at their own expense.</p>
+    <p xml:id="regest7">- Myconius recommends the learned bearer [Francisco de Enzinas].</p>
+    <p xml:id="regest8">- Greetings.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>S. Do not worry about the paper that first came to hand, as there was a need to hurry.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>There are those among the evangelicals who will devote all their strength to the imperial cities, regardless of what the Five Places say. You should do the same and persuade your people.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>The army, despite the Hessians being on guard, crossed the Rhine at the town of Bingen. What it will do now, I do not know.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>There is unrest in Sundgau and Alsace, for reasons unknown. Fortifications are being established in Ensisheim with oak wood.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>The Emperor is said to have left Landshut, returned to Regensburg, and will not stay there, but will go to Passau. It seems to me that he intends to wear out the pious Germans and drain their financial resources, so that he can attack us more securely in the following year. I tell you, a man of cunning and malice is waging war against the people of God!</p>
+    </div>
+    <div xml:id="div6" corresp="regest6">
+      <p>I see that from all the cantons of the Swiss, countless are ready against Charles. The Zurichers, Bernese, Bielers, Churers, Lucerners, and Zugers pass through here very eagerly. It pains me that many are forced to return home because money is lacking. Foreigners think that we should send a proper army at our own expense, not knowing our custom, to which we are accustomed when we go far away, for a long time. I do not know what can ultimately come of this.</p>
+    </div>
+    <div xml:id="div7" corresp="regest7">
+      <p>I commend to you the bearer of this letter, as he is very learned. Farewell with your people. Basel, August 27, 1546.</p>
+    </div>
+    <div xml:id="div8" corresp="regest8">
+      <p>Oswald Myconius, yours.</p>
+      <p>To Mr. Heinrich Bullinger, in his Lord. Zurich.</p>
+    </div>
+  </body>
+</letter>

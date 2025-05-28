@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12906">
+  <summary>
+    <p xml:id="regest1">[1] Bullinger has received Vadian's letter [No. 2851 from March 19] well, together with the letter [from] Constance.</p>
+    <p xml:id="regest2">[2] Even though he has nothing to report, he entrusts this [city] messenger [Melchior Vögeli] with the present letter, so that Vadian has the opportunity to write to him. The messenger brings good news!</p>
+    <p xml:id="regest3">[3] May the Lord strengthen all who call upon His name!</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings and blessings. I have received your letters, most excellent man, which are exceedingly pleasing to me, along with the letter from Constance.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>At present, I have nothing to write. However, I have given this to the courier, so that I might give you the opportunity to reply. This courier brings very good news!</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>May the Lord Jesus strengthen those who call upon His name!</p>
+      <p>Zurich, March 23, 1547.</p>
+      <p>Your Bullinger.</p>
+      <p>To the most distinguished man, Joachim Vadian, consul of St. Gallen, his ever most esteemed lord. St. Gallen.</p>
+    </div>
+  </body>
+</letter>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file68">
+  <summary>
+    <p xml:id="regest1">Blarer received the following news from Augsburg last night [March 11, 1548], which was forwarded to him by the Memmingen city clerk [Georg Maurer].</p>
+    <p xml:id="regest2">There is calm at the Diet of Augsburg. Emperor Charles V is bedridden with illness.</p>
+    <p xml:id="regest3">It is expected daily that Queen Maria of Hungary will depart for the Netherlands. King Ferdinand I, however, will remain in Augsburg for a longer period.</p>
+    <p xml:id="regest4">The [Catholic] clergy are primarily insisting on the restoration of their old rights and possessions. If the [Interim Committee] does not reach an agreement in the negotiations, Charles V [himself] will seek a solution.</p>
+    <p xml:id="regest5">There have been alarming but completely unfounded rumors about [imperial plans] against Constance. However, it is now heard in Augsburg that the city will certainly be spared by the Emperor.</p>
+    <p xml:id="regest6">A [Spanish] regiment is marching with the captured Landgrave Philip of Hesse from Nördlingen and another from Dinkelsbühl to Heilbronn, from where they will then proceed down the Rhine after some time.</p>
+    <p xml:id="regest7">There is a cautious stance towards the imperial plan for a new Imperial League due to concerns about a new Swabian League. The imperial cities would agree to this plan if the other estates also decided to do so. They believe that the [new] Imperial League would be conducive to peace. [Thus far the news from Augsburg].</p>
+    <p xml:id="regest8">In great haste.</p>
+    <p xml:id="regest9">[P.S.:] Recently, Blarer gave a letter for Bullinger [18052 from March 10, 1548] to the wife of Marcell Dietrich von Schankwitz [Anna, née Zehntmeier]. Now the courier [N.N.] of the present letter is also on his way, while Blarer [again] attends to his numerous obligations.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Last night, a letter came to me from the city clerk of Memmingen. It just arrived from Augsburg. It states as follows:</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>There is complete calm at the Diet. His Imperial Majesty is bedridden in the woods.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Queen Maria is expected to depart for the Netherlands any day. The Roman King remains there.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>The clergy do not want to negotiate anything on their behalf, but rather insist on the restoration of their rights above all. However, the Emperor seeks to find a middle ground if no agreement can be reached otherwise.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>There have been various alarming rumors on your behalf, but without any basis. I am confident that your matter will be well and successfully resolved. I cannot hear otherwise now.</p>
+    </div>
+    <div xml:id="div6" corresp="regest6">
+      <p>Two regiments along with the Landgrave, who are stationed at Nördlingen and Dinkelsbühl, have moved down to Heilbronn. They will remain there for a short time and then proceed further down the Rhine.</p>
+    </div>
+    <div xml:id="div7" corresp="regest7">
+      <p>There is reluctance towards the new league. It might soon become a Swabian league again. However, the cities are willing to comply with His Imperial Majesty in this matter, if the other estates also do so. The cities believe that this great league would be conducive to great peace.</p>
+    </div>
+    <div xml:id="div8" corresp="regest8">
+      <p>Given in great haste, on the 12th of March, 1548.</p>
+    </div>
+    <div xml:id="div9" corresp="regest9">
+      <p>I have also written to you recently through Marcelli's wife. And now this messenger is on his way amidst my many duties.</p>
+      <p>To his Bullinger. Zurich.</p>
+    </div>
+  </body>
+</letter>

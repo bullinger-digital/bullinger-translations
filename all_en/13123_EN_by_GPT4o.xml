@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file13123">
+  <summary>
+    <p xml:id="regest1">[1] Blarer's cousin Konrad Zwick and some friends warn about Bishop Johann von Weeze, who could secretly station mercenaries in the fortresses of Gottlieben and Arbon. If it comes to that, it would not be easy to change this circumstance again. In just a few days, Gottlieben can become a place that is not easily conquered.</p>
+    <p xml:id="regest2">[2] Bullinger should excuse this clumsily worded letter! One cannot be cautious enough in this cunning world! Blarer is still waiting for Bullinger's response through the messenger sent to him [with No. 3073] [...].</p>
+    <p xml:id="regest3">[3] He has received the [“Mandatorum epitome”] of King Edward VI. May God grant his protection! In haste.</p>
+    <p xml:id="regest4">[4] [P.S.:] The council of Konstanz has still not received a response [to its reconciliation request]. If only there were no trickery behind it! Yesterday someone from Ravensburg said that they are expecting the arrival of more Spanish cavalrymen there. The city is full of Spaniards, to whom the city keys have also been handed over.</p>
+    <p xml:id="regest5">[5] Just now, Zwick is sending the enclosed little letter that has just arrived from Ulm. Bullinger may copy it, but should not mention the name of the squire [Georg] Besserer.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Friendly sir, dear brother, I have nothing special. Only my dear cousin and some good friends and supporters say it would be good to keep an eye on Gottlieben and Arbon, so that the bishop does not bring any treachery and armed people unexpectedly into these fortresses. For it could happen very quickly, and afterwards it would not be easy to change it back, and it would be a significant, great disadvantage in many ways, as you can easily imagine. Gottlieben could be fortified in a few days (if it were misused) in such a way that no one could easily conquer it afterwards.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Excuse my clumsy writing. We are all acting cautiously: The world is full of deceit, and no one can be cautious enough! I am now waiting again for a message from the messenger I sent to you.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>I have received the little book from England. May God be our eternal protection and shield. In haste, 12th November. A. Bl.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>My lord has not yet received any letter or response from anyone. God willing, there is no trickery behind it! They are still expecting many more cavalrymen in Ravensburg: Yesterday a citizen from there reported here; and that they have the keys to the gates in their hands; and that the whole city is full of Spaniards.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Now my cousin sends me this little note. It has just come from Ulm. Please send it back to me. You may copy it, but do not mention the name of the squire Besserer, but alter it.</p>
+    </div>
+  </body>
+</letter>

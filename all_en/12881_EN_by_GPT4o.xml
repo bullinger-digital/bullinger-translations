@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12881">
+  <summary>
+    <p xml:id="regest1">[1] Bullinger can rejoice, for Myconius is healthy again, even though he is still writing his letter [No. 2833] from bed.</p>
+    <p xml:id="regest2">[2] Landgrave Philip of Hesse sent a trumpeter to the Colonel [Johann Hilchen von Lorch] in Frankfurt. The messenger, who had to leave quickly, could not find out why. Presumably, Philip has also made peace with Emperor Charles V to be rehabilitated.</p>
+    <p xml:id="regest3">[3] Gast cannot provide any information about Duke Christoph of Württemberg, except that he will move back to Mömpelgard within 14 days. However, according to rumors, he is said to have actually pledged his territory to King Francis I of France.</p>
+    <p xml:id="regest4">[4] Since Count George of Württemberg-Mömpelgard has an agreement with the authorities of Basel, nothing is likely to happen to his land, especially as the Count is now also trying to reconcile with the Emperor. He sent a messenger to him [...].</p>
+    <p xml:id="regest5">[5] In Freiburg im Breisgau and the Markgräflerland, mercenaries are being recruited for the Emperor as replacements for the many dead (30 to 40 die per day!) and sent to Ulm. It is said that they are to be shipped on the Danube to Vienna because Sultan Suleiman has ravaged Transylvania, is now sending troops to Buda, and intends to subjugate the [Hungarian] cities. He wants to crown the young King Matthias [correctly: John Sigismund Zápolya], the son of the Voivode [John I Zápolya], if he commits to making the cities secede from the House of Habsburg.</p>
+    <p xml:id="regest6">[6] Two mercenaries reported that Elector John Frederick of Saxony had defeated the imperial troops of Margrave Albert Alcibiades of Brandenburg-Kulmbach. If only it were true and the enemies of the Church were to perish!</p>
+    <p xml:id="regest7">[7] Greetings.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings in the Lord. Rejoice with us! Myconius has regained his former health, although he is still confined to bed, as you will perceive from his letters.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Regarding the Landgrave, this I know: He has sent a trumpeter from Frankfurt to the Colonel. However, what he requested, the messenger, who left in haste, could not learn. It is believed that he has also accepted a peace, so that he may more honorably come to the empire's market with the Emperor's consent.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Concerning Duke Christoph, I know nothing except that I hear he intends to return to Mömpelgard in 14 days. The rumor is indeed that he has pledged his land to the French; if he repays the money, it will remain his.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Count George has an agreement with our lords, which I believe will ensure nothing happens to the land, as he has also sent a messenger to the Emperor to reconcile.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>In Freiburg and the Markgräflerland, mercenaries are being recruited for the Emperor. They are sent from Ulm, as the imperial soldiers are dying rapidly (30 to 40 in a day). They can no longer endure the hardships. Some believe the Emperor will send the fresh troops to the Danube, to be sent to Vienna, while the Turk has ravaged Transylvania, leading the local forces away. Meanwhile, he intends to conquer the cities. He sends many troops to Buda, wishing to crown the young King Matthias, the son of the Voivode, with the condition that the other Hungarian cities secede, so he may win them without a sword stroke.</p>
+    </div>
+    <div xml:id="div6" corresp="regest6">
+      <p>Two mercenaries have arrived these days. They say that the Elector of Saxony has defeated the Emperor's forces that were with Duke Albert. If only it were so, and the enemies of the Church would perish!</p>
+    </div>
+    <div xml:id="div7" corresp="regest7">
+      <p>Farewell. March 1, 1547. Yours, G[...].</p>
+      <p>To Master Heinrich Bullinger, the most vigilant pastor of the Church of Zurich.</p>
+    </div>
+  </body>
+</letter>

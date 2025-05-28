@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12951">
+  <summary>
+    <p xml:id="regest1">[1] Bartolomeo Paravicini greets the bishop of Zurich, whom he reveres as a father!</p>
+    <p xml:id="regest2">[2] He had intended to write for some time, but there was no good reason to do so. Even now, he has nothing new to report, but he would like to inquire about the progress of the war between Emperor Charles V and the Swabians. Furthermore, what is being reported about Landgrave Philip of Hesse and Duke John Frederick of Saxony? The latter is said to have been captured and his son to have fallen. Is there any news about the peace negotiations? Is there anything new from Zurich?</p>
+    <p xml:id="regest3">[3] In Valtellina, the Gospel is making daily progress!</p>
+    <p xml:id="regest4">[4] Regards.</p>
+    <p xml:id="regest5">[5] Written by the aforementioned Bartolomeo, once a boarder with Bartholomäus Köchli.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Bartolomeo Paravicini greets the most learned man, Master Heinrich, bishop of the Church of Zurich, whom he always reveres as a father.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Although my intention to write to you has been very strong for a long time, since nothing worthy of writing has happened to me, I never wanted to send you empty letters. But now, although nothing new has happened here, moved by a certain desire to hear something new about the battles that are taking place between the Swabians and the Emperor in those regions, which I am certain you are not ignorant of, I could not refrain from writing these present, albeit brief, letters. In these, I wish to ask you, due to your kindness, to inform me about what is being reported concerning these battles, what is being said about the Landgrave of Hesse, what about the Duke of Saxony, who is said to have been captured by the Emperor, and about his son, who is reported to have been killed, and what is currently being discussed, whether about peace or battle, and finally, whatever new has happened among you; concerning all these matters, I ask you again and again to inform me.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>The Gospel is shining forth among us everywhere and daily; which indeed is no small comfort to us.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Farewell and continue to regard me with your usual love. Caspano, the seventeenth day before the Kalends of June 1547.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>The same aforementioned Bartolomeo, once a boarder with Bartholomäus Köchli, your most beloved as a son.</p>
+    </div>
+  </body>
+</letter>

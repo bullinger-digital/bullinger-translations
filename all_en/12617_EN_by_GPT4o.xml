@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12617">
+  <summary>
+    <p xml:id="regest1">Two weeks ago, a wagon traveling from Italy to the Netherlands passed through [Zürich]. During this, a [goods] bale on the wagon burst open, and the contents fell out. Those who helped with the cleanup experienced pain when they touched it with their hands. [Hans] Jakob Stampfer then identified the product as poisonous mercury mixed with sulfuric acid.</p>
+    <p xml:id="regest2">- Augsburg should be notified so that the [Schmalkaldic] camp is on guard. Bullinger, who only learned of this the evening before, fears a murderous plot by the Pope [Paul III.].</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Dear Sir and brother, 14 days ago, a wagon passed through here, traveling from Italy down to the Netherlands. A bale (goods bale) on it burst open. A lot of mercurius sublimatus fell out. When some citizens ran over (came running) and scraped it together (gathered it up) and put it back into the bale, and touched it, it brought them pain. Finally, Mr. Jakob Stampfer examined the matter and said that it was poison, etc. That is much.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Therefore, writing down to Augsburg, that they should be on guard in the camp. I fear the Pope's cunning and murder. I only learned of it last night.</p>
+    </div>
+  </body>
+</letter>

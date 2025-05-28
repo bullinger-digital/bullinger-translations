@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12964">
+  <summary>
+    <p xml:id="regest1">[1] Report from Rome dated May 21 regarding the Neapolitan uprising against the Spanish Inquisition: In the course of combating the Lutherans by the Spanish Inquisition, which was ordered by the Viceroy of Naples, Pedro Álvarez de Toledo, three citizens of the city were tracked down with the intention of burning them. However, the people rose up against the Inquisition and the captain [...]. In the absence of the Viceroy, the captain was captured by the people, allowing the three prisoners to be freed.</p>
+    <p xml:id="regest2">[2] The Viceroy retaliated by having two noblemen and one citizen arrested and beheaded, and their bodies wrapped in black cloths and thrown over the city walls, because they had declared that they would only recognize the authority of the royal and imperial majesty, not that of the Inquisition.</p>
+    <p xml:id="regest3">[3] Subsequently, the citizens took up arms again. When they could not capture the castle, they killed all the Spaniards in the city, up to 1000 in number.</p>
+    <p xml:id="regest4">[4] The Viceroy fled to a fortress in Gaeta and called upon the Duke of Florence, Cosimo I de' Medici, as well as Andrea Doria and his forces for military assistance. Meanwhile, the Neapolitans have increased their army to 30,000 men. It is feared that the rebellion could spread throughout all of Italy.</p>
+    <p xml:id="regest5">[5] On this day, May 27, this written report is confirmed by a correspondent [...] from Rome. Additionally, he reports that over 5000 Spaniards have been killed throughout the Kingdom of Naples.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Cause of the Neapolitan uprising, from Rome, given on May 21: The inquisition of the Lutheran sect, as seen by the Viceroy in the Kingdom of Naples, found and captured three citizens, intending to burn them. The entire populace was incited, resisted the captain and the inquisition, captured the captain in the absence of the Viceroy, thereby freeing the three citizens.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>When the Viceroy heard of this, he retreated to the castle. Three prominent men, two from the nobility and one from the community, were brought before him. As they were willing to fulfill their duty to the royal and imperial majesty, but not to the inquisition, he had these three beheaded, wrapped in black cloths, and thrown over the city walls.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>When the citizens saw this, they took up arms again. And when they could not capture the castle, they killed up to 1000 Spaniards in the city.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Seeing this, the Viceroy fled to a fortress in Gaeta, where he called upon the Duke of Florence and Andrea Doria with his armada (military force). In response, the Neapolitans have also strengthened themselves to up to 30,000 men. It is believed that this uprising might spread throughout Italy. May the Lord grant his grace! Amen.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Today, on the 27th, someone from Rome arrived. He confirms this written report. It is believed that over 5000 Spaniards have been killed throughout the entire Kingdom of Naples, etc.</p>
+      <p>To the most honorable man, Mr. Bullinger, the most steadfast defender of sincere theology, his esteemed brother and lord.</p>
+    </div>
+  </body>
+</letter>

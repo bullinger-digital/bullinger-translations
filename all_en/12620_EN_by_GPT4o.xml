@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12620">
+  <summary>
+    <p xml:id="regest1">On September 1st, 60 Schmalkaldic League members drove 200 Italians into flight during a sortie from the Ehrenberg fortress. Subsequently, the [Imperial forces] captured the nearby Katzenberg and fired upon the Ehrenberg fortress, prompting the people of Constance to send reinforcements to the besieged on September 7th. Other cities will do the same.</p>
+    <p xml:id="regest2">- Bullinger had not informed Myconius in his previous letter [not received] about the expedition led by [Francesco di] Castellalto from Heiterwang. Heiterwang is not far from Ehrenberg, but Bullinger does not know the place himself. He simply conveys the news sent to Zurich. Myconius should check a map himself.</p>
+    <p xml:id="regest3">- If the [people of Basel] receive news from [Lower Germany], they should share it.</p>
+    <p xml:id="regest4">- The people of Augsburg have asked the people of Zurich for preachers. Today, three [candidates] were appointed for this purpose. The messenger [from Augsburg] likely also requested preachers in Basel.</p>
+    <p xml:id="regest5">- Greetings to [Johannes] Gast, to whom Myconius should convey this news and give the enclosed list [of new publications from Basel]. [Rudolf] Gwalther, [Konrad] Pellikan, and Theodor [Bibliander] send their regards.</p>
+    <p xml:id="regest6">- Recommendation of the bearer, a pious French printer [...].</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Grace and peace. On September 1st, those at Ehrenberg fortress made a sortie with 60 men. They drove 200 Italians into flight. Subsequently, the enemies captured the nearby Katzenberg and fired upon it, so much so that yesterday, September 7th, the people of Constance set out to rescue and relieve them. Other cities will also come to the aid of the people of Constance.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>I wrote to you before about how Castellalto went there with 6 cannons and 10 companies from Heiterwang. You ask, what is Heiterwang? What should it be? It is the name of a place, not far from Ehrenberg. I have never been there myself. I am just conveying to you what is written here. You should then look it up on maps. I know nothing more about it.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>If you have any news from Lower Germany, let me know. The people of Augsburg have requested preachers from us. Today, three have been appointed. Be aware, the messenger has likely also been to you by now.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>No more for this time. Greet Johannes Gast for me, share this new news with him, and give him this list. Rudolf Gwalther, Konrad Pellikan, Theodor Bibliander, and the others send their regards. God be with you.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Given in Zurich, September 8th, 9 in the morning, 1546. I commend to you this French bearer of the present letter, a printer, a pious man.</p>
+    </div>
+    <div xml:id="div6" corresp="regest6">
+      <p>Bullinger.</p>
+      <p>To the most distinguished man, Lord Oswald Myconius, always to be honored as a lord and brother. Basel.</p>
+    </div>
+  </body>
+</letter>

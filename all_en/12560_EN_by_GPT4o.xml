@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12560">
+  <summary>
+    <p xml:id="regest1">The messenger from Konstanz [...], through whom Blarer recently sent letters from Augsburg to the Zurich [Council], reported that the Zurich Council had given him a gulden as a gift. This should be avoided, as it could lead to a real money-making scheme. Blarer would have paid the messenger himself, but now refrains from doing so.</p>
+    <p xml:id="regest2">- The Zurich messenger [Melchior Vögeli], who recently stayed in Konstanz, is said to have received a crown as a gift from Count Friedrich von Fürstenberg. When asked by the Konstanz Council about his wages, he did not want to demand anything, but he also received a gulden as a gift from them. The messengers want gifts so that they can also receive a wage at home.</p>
+    <p xml:id="regest3">- Especially in a time of active correspondence, an agreement regarding their remuneration that is valid for all parties should be made.</p>
+    <p xml:id="regest4">- Blarer writes at night, as the letter carrier [...] wants to leave early the next day. He does not know when the council messenger [...] will depart. If [the carrier of the present letter] arrives before the [council messenger], Bullinger should not become impatient, as the [council messenger] will soon deliver the news.</p>
+    <p xml:id="regest5">- [Enclosure:] Blarer was of the opinion that the Konstanz Council would send its own messenger. However, the carrier of the present letter will also deliver the letter from the Konstanz Council to the Zurich Council.</p>
+    <p xml:id="regest6">- Elector Palatine [Friedrich II.] has admonished Emperor [Charles V.] with a letter, reminding him that he had sworn not to deploy foreign troops in Germany. However, the Emperor said that he had been patient long enough and now had to intervene.</p>
+    <p xml:id="regest7">- Blarer's brother [Thomas] reported that someone [...], who came directly from Milan, claims that [King Francis I.] of France, who is already in armor, wants to invade Piedmont and take Milan. If true, one would be in a similar situation as during the war between David and Saul: If there are multiple hotspots, the fire can only be extinguished with difficulty.</p>
+    <p xml:id="regest8">- [Konrad] Hofherr recently complained about the high cost of living in Zurich. In response, Theodor [Bibliander] advised him to move to Konstanz (where life is cheaper), especially since he is already graduated and can therefore complete the remaining [tasks] elsewhere. Now that Blarer has heard [Jakob] Herbrot's opinion on the matter, he calls Hofherr back. This way, he can also supervise him better. Bibliander and Bullinger should facilitate the departure and settle Hofherr's debts or vouch for them until Blarer learns what still needs to be paid and sends the corresponding money.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>The messenger from our side, through whom I recently sent the letters that came from Augsburg and were addressed to your lords, reported that your lords gave him a gulden as a gift. This should not be the case, as it would lead to a real money-making scheme (Geldschneiderei) and a financing of unscrupulous (gewissenlosen) people. I would have paid him myself, but since they gave him a florin there, I did not want to give him any further messenger's fee.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>You also recently had a messenger here. I hear that Count Friedrich von Fürstenberg gave him a crown as a gift. So my lords asked about his wages. He did not want to demand anything. However, I hear they also gave him a gulden. Thus, they do not want to take wages, but they do take gifts, so that they can still receive the wage at home, as I suspect your lords will also give to the next messenger.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>It would be almost necessary to have an agreement, so that one knows and the messengers also know what they should adhere to, so that money is always saved for one party. For there is much writing and sending in these times.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>I wrote all this on the night of July 26th. It is reported that the carrier wants to be ready early tomorrow morning. I do not know whether my lords' messenger will be ready before or after him. If this one arrives before him, do not let it concern you: the news will come shortly thereafter.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Blaurerus.</p>
+    </div>
+    <div xml:id="div6" corresp="regest6">
+      <p>I thought my lords would have sent their own messenger. So the carrier will also deliver the letter from our side to your lords; you will hear everything from them.</p>
+    </div>
+    <div xml:id="div7" corresp="regest7">
+      <p>The Elector Palatine has sent a splendid letter to the Emperor, reminding him of how he became Emperor, what good was expected of him; among other things, what he swore, namely not to bring foreign troops into Germany, etc. But he replied that he had been patient for a long time; the longer it goes, the worse it gets. Therefore, he must intervene, with other similar words.</p>
+    </div>
+    <div xml:id="div8" corresp="regest8">
+      <p>Now my brother reports that someone who recently came from Milan says that the Frenchman wants to invade Piedmont and take Milan, and that the Frenchman is already somewhat armed. If so, it would be another war like David and Saul's. When many fires are kindled at once, it is difficult to extinguish them.</p>
+      <p>Curio recently complained that he could not find suitable accommodations there, and that the cost of everything was astonishingly high and barely bearable. Therefore, our Theodor also advised him to move here, where he could manage more comfortably and focus on his studies, as he has already advanced to the point where he can easily achieve what he still desires, either here or elsewhere, if he applies diligent study. Therefore, I now call the man back here, having first explored Herbrot's opinion, so that I can better understand the life, character, and studies of the young man, etc. I therefore earnestly ask that, with your and Theodor's help, his departure from there be successful and that you either settle his debts or be guarantors (Bürgen) for the payment until I send the amount he owes (once I find out).</p>
+      <p>To the highly learned, Christian lord Heinrich Bullinger, my trusted, dear lord and brother, to his own hands.</p>
+    </div>
+  </body>
+</letter>

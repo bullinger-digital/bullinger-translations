@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12600">
+  <summary>
+    <p xml:id="regest1">Schuler can only write very briefly, as he had forgotten the departure date of the messenger [...]. The messenger will convey all necessary information orally. Schuler remains very busy. However, he, his wife [née Lübegger], and the children are doing well. The rumors of war, however, are unsettling his church.</p>
+    <p xml:id="regest2">- Bullinger should respond to the messenger in writing or orally regarding the question of how the Confederates are getting along with each other. Some slanderers claim that the Confederates have decided not to send auxiliary troops to either the [Schmalkaldic League] or Charles V.</p>
+    <p xml:id="regest3">- The Swiss companies, which are preferred over the mercenaries, behaved decently in Memmingen and were well provided for by the residents.</p>
+    <p xml:id="regest4">- Greetings, among others, to [Anna, née Adlischwyler]. Bullinger can be assured of Schuler's friendship.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Pax Christi tecum. The time for the departure of the messenger, a good man, has caught me off guard, dearest Bullinger, so that I cannot write to you as I would like. Nevertheless, I am sending what first came into my hands. This messenger of mine will clearly explain to you what seems necessary for you to know. I am distracted by many urgent and various affairs. As for external matters, my wife and children and I are doing very well. Regarding the church entrusted to me, we are greatly disturbed by various war rumors, but we are constant in prayers and are led by much repentance. May the Lord hear the prayers of His servants!</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>This one thing I wish to know from you, how the Swiss are getting along. Those who bear ill will towards us boast of this one thing: that the Swiss have agreed not to provide assistance to either party, neither to us nor to Charles of Ghent. Write or entrust to the present messenger, if you have any knowledge of this matter, to report it to me orally.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>The Swiss have conducted themselves excellently and honorably with us in Memmingen. They have also been well treated by our people. We would rather have two thousand Swiss in our city than a thousand mercenaries!</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Farewell. Given in great haste on August 26, 1546. Greet in many names your wife, dear to both you and me, and all who wish for our well-being, and be assured of everything that concerns a true friend and brother, from your old friend and brother Gervasius. Farewell again.</p>
+      <p>Your Gervasius Scholasticus.</p>
+      <p>To my dearest old friend Heinrich Bullinger, Antistes of the Church of Zurich, beloved lord and brother in Christ.</p>
+    </div>
+  </body>
+</letter>

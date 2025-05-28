@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file13140">
+  <summary>
+    <p xml:id="regest1">[1] Johannes and his family are well. Hopefully, this is also true for his brother Heinrich.</p>
+    <p xml:id="regest2">[2] Enclosed, for the new year, is the monetary share that is due to Heinrich. If Johannes could have counted on the help of others, he would have received more. As it is, he must be content with 8. 4 of these are from the bailiff [Jakob Freytag]. If anything else comes in the next few days, Heinrich will also receive his share of it.</p>
+    <p xml:id="regest3">[3] Who will come to Kilchberg [as pastor], and what news is there to report?</p>
+    <p xml:id="regest4">[4] Johannes is currently very tired. If he manages to catch something [while hunting] in the coming days, he will go to Zurich himself.</p>
+    <p xml:id="regest5">[5] Blessing wish.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings from Christ, etc. Dear brother, know that we are all in good health. Hearing the same from you would be a joy for us, etc.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>I am sending you a share for the new year. If I had those who could help me, I would have received more. As it is, I must be content with 8, of which the bailiff has 4. If more comes in the coming days, your share will also be included.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Let me know who will go to Kilchberg, and what new news is available.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>I have nothing special to write to you now, as I am very tired; if I catch something in the coming days, I will come myself.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>God be with you all!</p>
+      <p>To Mr. Heinrich Bullinger in Zurich, his brother.</p>
+    </div>
+  </body>
+</letter>

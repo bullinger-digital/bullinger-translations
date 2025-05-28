@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12535">
+  <summary>
+    <p xml:id="regest1">Comander cannot write much because the messenger [...] is in a hurry, but only because he wants to meet Bullinger! He will share noteworthy information from Lombardy and Italy. The people of Zurich should convey the news they have learned.</p>
+    <p xml:id="regest2">- Greetings.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Grace and peace from the Lord. I do not have time to write, the messenger is in a hurry, dearest Bullinger, but only so that he may have the opportunity to meet you. He himself knows better than I do whatever is worth knowing from Lombardy and all of Italy and will recount everything by word of mouth. Write to us about what you have learned in Zurich.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Farewell and extend our greetings to all the brothers.</p>
+      <p>From Chur, July 6, 1546.</p>
+      <p>Yours, Comander.</p>
+      <p>To the most distinguished man, Master Heinrich Bullinger, bishop of the city of Zurich, his lord and foremost friend.</p>
+    </div>
+  </body>
+</letter>

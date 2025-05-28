@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12879">
+  <summary>
+    <p xml:id="regest1">[1] Richmut is grateful that Bullinger accepted the invitation to yesterday's dinner. Due to the presence of out-of-town guests, his friends and he were all the more delighted by his attendance.</p>
+    <p xml:id="regest2">[2] However, instead of leaving it at that, Bullinger now sends 4 Batzen through Master Andreas [...]. Richmut returns them, especially since he did not invite him to receive gifts. If one had to give him so much money for every meal, he would certainly be an expensive host!</p>
+    <p xml:id="regest3">[3] Bullinger should not take it amiss. Regards.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>My special willing service and whatever I can do for you, dear Master Heinrich. As I asked you recently (yesterday evening) to kindly join us for dinner, you did so; for which I thank you kindly. It was a joy for me and my other friends because of the guests from out of town.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>And yet you did not leave it at that and gave Master Andreas 4 Batzen: to give them for you. I send them back to you. I have already informed you that I did not invite you to give gifts; and if you intended to give gifts, I would not have invited you. I would be an expensive host if everyone had to give 4 Batzen for one meal!</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Take this in the best way, and if I can serve you with my body and goods, you should completely rely on me for that. With that, God be with us! Gotthard Richmut.</p>
+    </div>
+  </body>
+</letter>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file4">
+  <summary>
+    <p xml:id="regest1">New Year's greetings to Stumpf, his wife [Regula Brennwald], and family.</p>
+    <p xml:id="regest2">Enclosed, Bullinger sends [the draft of a letter to Aegidius Tschudi], which he received from Joachim Vadian. He kindly requests a copy of this letter or the autograph itself, noting that he would be more pleased with a copy in Stumpf's handwriting.</p>
+    <p xml:id="regest3">Greetings.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>H. Bullinger to Johannes Stumpf, greetings. I wish you, your dear wife Regula, and all your family a most prosperous year.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>I am sending here what I received from Joachim Vadian. However, I kindly ask you to either give me a copy of that letter, so that I may have it in your handwriting, or the autograph of Vadian himself, which would not be as pleasing as if you were to write it for me.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Farewell forever. January 3, 1548.</p>
+    </div>
+  </body>
+</letter>

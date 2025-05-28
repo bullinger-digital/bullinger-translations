@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file10">
+  <summary>
+    <p xml:id="regest1">Vadian was politely asked by Hieronymus Sailer to forward the enclosed letter to Francisco de Enzinas to Basel as quickly as possible. Since Bullinger, despite his duties, will likely ensure that this letter reaches its destination quickly and safely, Vadian does not want to entrust it to anyone else.</p>
+    <p xml:id="regest2">News: Cardinal [Cristoforo Madruzzo] has returned from Rome [to Augsburg]. He has delivered Emperor Charles V the harsh response [of Pope Paul III]. Negotiations are taking place behind closed doors. There is a rumor that [due to the tension between the Emperor and the Pope] there will be serious unrest in Italy. For the Emperor is not at all satisfied [with the Pope's response].</p>
+    <p xml:id="regest3">The Imperial Diet is supposed to end in about a month. Already, only banquets are being held. All matters rest with Charles V. Secretly, all princes and estates complain. Many people even wish for an unexpected victory over the Emperor. What he claims is revealed as tyranny. May God deliver His own from this southern devil.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>S. Lord Hieronymus Sailer, in his holy letters, asks me to ensure that these enclosed letters are delivered to Lord Francisco de Enzinas as quickly as possible. For this reason, I did not want to send them with anyone else but you, despite your many duties, as I have no doubt that under your care, they will certainly and swiftly reach Basel, etc.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>News: The cardinal has returned from Rome, namely the Cardinal of Trento. He is said to have given the Emperor a sharp response. Much is being negotiated behind closed doors. However, there are murmurs that all unrest might draw into Italy. And the Emperor is said to be not at all satisfied with the Pope.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>The Imperial Diet is supposed to conclude in about a month. Currently, there is nothing more to do than to arrange it with banquets in an orderly and costly manner. Everything else is left to the Emperor. Secretly, there is great complaint among all the nobility, with all sorts of grievances and injustices. And the best among them wish for some unexpected victory over the Emperor. For tyranny is seen, which he has asserted. May the Lord deliver His own from the noonday demon! Farewell. In haste to St. Gallen, January 12, 1548.</p>
+      <p>Joachim Vadian.</p>
+      <p>To the truly pious and learned man, Lord Heinrich Bullinger, president of the most ample church of Zurich, most esteemed lord and friend.</p>
+    </div>
+  </body>
+</letter>

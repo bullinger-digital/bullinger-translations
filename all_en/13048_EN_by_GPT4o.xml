@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file13048">
+  <summary>
+    <p xml:id="regest1">[1] Haller must be brief, as he was unaware of the current messenger [...], who is already departing. In approximately three days, he will write more extensively through the Zurich ruffian Andreas [Gessner], as there are important matters to communicate.</p>
+    <p xml:id="regest2">[2] Greetings. Enclosed is a letter for Christoph Froschauer, which he received from his mother [...] and could not deliver earlier due to a lack of messengers.</p>
+    <p xml:id="regest3">[3] On Thursday, September 1, the Imperial Diet begins. More on this soon.</p>
+    <p xml:id="regest4">[4] [P.S.:] Georg Frölich nearly died from an abscess, but he is doing better now, praise be to God!</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. I did not know this messenger was leaving until he was already about to depart. Therefore, I cannot write everything I would like. However, I will write more extensively within three days, God willing, through Andreas, that Zurich ruffian, as I have matters I very much want you to know.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>In the meantime, farewell, and please give these letters, which have been kept with me for some time due to the rarity of messengers, to Froschauer. His mother sent them to me.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>On the upcoming Thursday, namely the first of September, the Imperial Diet will begin, about which I will write more shortly. August 26, 1547. Johannes Haller, forever yours.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>P.S.: Georg Frölich almost succumbed to an abscess and is still bedridden, but he is recovering again. Praise be to God!</p>
+      <p>To the most esteemed Heinrich Bullinger, my lord as a venerable father. Zurich. To Mr. Heinrich Bullinger.</p>
+    </div>
+  </body>
+</letter>

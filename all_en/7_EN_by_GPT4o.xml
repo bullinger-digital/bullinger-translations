@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file7">
+  <summary>
+    <p xml:id="regest1">Count Georg has not yet been able to respond to Bullinger's last letter [not received] due to daily business.</p>
+    <p xml:id="regest2">Enclosed is a letter [hbbw XX, No. 3098] from his preacher Matthias Erb, along with his treatise [on the Lord's Supper], which he delivered to him about two years ago. Bullinger will likely find it pleasing in light of his own writings on the Lord's Supper composed for Count Georg.</p>
+    <p xml:id="regest3">He has no news, except that Emperor Charles V is recruiting cavalry and infantry soldiers. Presumably, they are intended for Duke Charles III of Savoy.</p>
+    <p xml:id="regest4">Greetings to Rudolf Gwalther and New Year's wishes.</p>
+    <p xml:id="regest5">His own situation remains unchanged. May God bring it to a good end.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Georg, Count of Württemberg and Mömpelgard, etc. Our greetings to you, well-learned dear friend. We have not yet responded to your recent letter to us due to our pressing business matters.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>We are sending you herewith a letter from our preacher in Reichenweier, along with a proposition he delivered to us about two years ago, which we believe, in light of the report you sent us, will not displease you.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>We have no new information, except that the Imperial Majesty is once again recruiting many cavalry and infantry soldiers. However, no one can yet ascertain where they are to be deployed, though some believe it concerns Savoy.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>We wish you and your brother Rudolf Gwalther a happy and blessed New Year.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Our affairs remain as they were when we parted from you. May the dear God bring it to a fortunate end. Dated Basel, the 4th of January, in the year, etc., 48.</p>
+      <p>G. Count of Württemberg, etc.</p>
+      <p>To the well-learned, our dear friend Heinrich Bullinger, preacher in Zurich, to be delivered.</p>
+    </div>
+  </body>
+</letter>

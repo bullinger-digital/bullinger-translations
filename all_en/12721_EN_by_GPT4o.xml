@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12721">
+  <summary>
+    <p xml:id="regest1">[1] Simon Bing, the secretary of the Landgrave [Philipp of Hesse], asked Thomann, as a thank you for Bullinger's letter [not received], to forward the enclosed report [not received] about the course of the war to him. Bing had forgotten to include it in his last dispatch [No. 2666].</p>
+    <p xml:id="regest2">[2] For his part, Thomann remains completely at Bullinger's disposal. He is currently trying to personally deliver the letter [No. 2651] that Bullinger had addressed to the Landgrave, but so far no opportunity has arisen.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Honorable, well-learned, especially gracious, dear sir, I offer you my tireless, willing service at all times. In response to your letter, addressed to Simon Bing, the secretary of the Landgrave, he has today sent me the enclosed writings, detailing what has transpired so far, to forward to you. He indicates that such matters have never been forgotten by him.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Please receive this accordingly, and I remain always at your command, as I am entirely ready to provide you with willing service at any time. I have endeavored today to personally deliver your letter to the Landgrave himself, but I have not yet been able to reach him. Dated the 13th of November, in the year 1546. Your ever-willing Heinrich Thomann.</p>
+      <p>To the honorable, well-learned Mr. Heinrich Bullinger in Zurich, my especially gracious dear sir.</p>
+    </div>
+  </body>
+</letter>

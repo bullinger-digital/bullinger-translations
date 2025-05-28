@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file13127">
+  <summary>
+    <p xml:id="regest1">[1] Frölich received the long-awaited letter from Bullinger [not received] through [...] Murer and understands his desire [for more frequent letters]. However, the many rumors are too rarely verified to justify written communications.</p>
+    <p xml:id="regest2">[2] Pious Italians and Germans, who are well informed about the secret plans [of the Imperial forces], believe that an attack on Constance and its neighbors is inevitable, especially since [Emperor Charles V] has stationed a large number of troops in that region, the Swiss Confederates are divided among themselves, and the remaining Germany is subdued and powerless. The imperial commanders will likely not miss such an opportunity. Therefore, something must be done against it.</p>
+    <p xml:id="regest3">[3] The Emperor and King Ferdinand are still in Augsburg. In the next three days, Queen Maria of Hungary and other "heroines" are expected to arrive, accompanied by Maximilian of Egmont, Count of Buren, and many horsemen. Duke Johann Friedrich of Saxony and Landgrave Philip of Hesse are still prisoners. At the Imperial Diet, the Imperial Estates prove to be completely submissive to the Emperor.</p>
+    <p xml:id="regest4">[4] The Spaniards have only war on their minds. A hundred companies have been sighted. But against whom? Many say exactly what Bullinger expresses at the end of his letter. May God protect him and his people!</p>
+    <p xml:id="regest5">[5] Greetings, also to the colleagues. Frölich is plagued and cannot write further. Bullinger should understand what he means by this.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. I received your long-awaited letter, most honorable man, through Murer. I understand your desire, and there was no lack of topics to write about before, yet more from rumor than from knowledge.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Now, however, I would not want it to be hidden from you that both the Italians and the Germans, who are notable for their piety and not unaware of secret plans, firmly assert that all the storm of war is inevitably heading straight for the people of Constance and their neighbors, due to the location where the greatest number of troops is currently stationed, and also because of the discord among your people. Additionally, the rest of Germany is now under the yoke and exhausted of strength. Those knowledgeable in military matters perhaps consider this opportunity not to be neglected. Therefore, a step must be taken beyond this, etc.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>The Emperor and King Ferdinand are still here. Queen Maria and most other heroines are expected to arrive here within three days with Buren and a large cavalry. Duke Johann Friedrich and the Landgrave are held captive. All the business of the Imperial Diet is placed in the Emperor's discretion by the estates.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>The Spaniards are preparing for war, war, war: Against whom, however, I do not know. A hundred military banners have been seen. The common rumor is that which your letter mentions at the end. May the strong Lord protect you and all your people!</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Farewell and convey my greetings to the brothers. I am miserably tossed about. November 19th. I could not write more now. Make sure you seriously understand this.</p>
+      <p>Reply to Mr. Heinrich Bullinger.</p>
+    </div>
+  </body>
+</letter>

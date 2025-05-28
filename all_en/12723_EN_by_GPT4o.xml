@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12723">
+  <summary>
+    <p xml:id="regest1">[1] Blarer has been in Griesenberg for several days with his brother-in-law [Heinrich von Ulm], who is on his deathbed. He cannot respond to the letters from Bullinger [not received] that were sent to him there, as long as his brother-in-law, who has been struggling with death for two days, is not released.</p>
+    <p xml:id="regest2">[2] He has sent Bullinger's letter to [Claudius Pius] Peutinger [not received] and the German writing [...] [to Constance], but too late for the latter to be forwarded to Arbon and Augsburg. Blarer regrets that the writing Ramus [correctly: Thoman Ruman] could not be sent along; furthermore, that it was not possible for him to recommend [Ruman] to his friends in Augsburg.</p>
+    <p xml:id="regest3">[3] Blarer encloses a letter for [Hans] Schöner.</p>
+    <p xml:id="regest4">[4] He cannot report anything about the [Schmalkaldic] War. Greetings. He is now being called to his brother-in-law, who is approaching his final hour.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>In Griesenberg, I have been staying for several days with my dying brother-in-law, my venerable and dearest Bullinger, to whom all your letters have been sent. However, I am not able to respond to them at all until my brother-in-law is released from the bonds of the flesh and migrates to the heavenly seats; for he has been struggling with death for almost two whole days now, endowed with firm trust in the Lord.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>I have sent the letters addressed to Peutinger, as well as that German writing, back to the city (although I fear too late for them to be forwarded from there to Arbon and Augsburg). It greatly pains me that the writing could not be carried to Augsburg by Ruman, nor could I recommend him to my friends in Augsburg.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>I am sending the letters addressed to Schöner.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>From here, I cannot report to you anything about the matters that contribute to the success of the war. But, brother, farewell. I can do nothing at all. I am being called to my brother-in-law, who seems to be about to breathe his last. November 14th.</p>
+      <p>Yours, Ambr. Bl. to his Bullinger.</p>
+    </div>
+  </body>
+</letter>

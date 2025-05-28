@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12449">
+  <summary>
+    <p xml:id="regest1">Gast will take the opportunity to reciprocate for the [book] gift [“De providentia sermones X” by Theodoret]. He himself cannot send any books now, as there are few new publications and the messenger [...] is urging haste.</p>
+    <p xml:id="regest2">- Emperor [Charles V] was in Speyer and is on his way to Regensburg to obstruct the Diet of the Protestants. Someone from the court of Count [Wolfgang] of Palatinate-Zweibrücken wrote [...]: [Charles V] has bid farewell to the Netherlands, intends to be in Spain in three months, and [only] return [to the Empire] in three years if the situation in Germany has improved.</p>
+    <p xml:id="regest3">- [In Basel], but also everywhere in Alsace and other places, a fever is raging. Gast fears that the plague will follow. Many suffer from this fever for up to twenty days and then die.</p>
+    <p xml:id="regest4">- Gilbert [Cousin] is taking care of a matter for his brother [Hugo the Elder?] with [Nicolas Perrenot?] de Granvelle and is rarely at home. Gast is waiting for a letter from him. He does not know if Bullinger has received the [commentary on the prophet Haggai written by Jodocus Willich].</p>
+    <p xml:id="regest5">- Greetings to [Konrad] Pellikan and to Theodor [Bibliander].</p>
+    <p xml:id="regest6">- Gast will send the rolled-up leather with [the Boethius print], which Bullinger requested, in a few days when he has found a messenger.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. You have sent a most welcome gift, a sign of your sincere affection towards me. I will reciprocate when the opportunity arises. I cannot send any books at this time; very few are completed, and the messenger is in a hurry.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>I have nothing new that you are unaware of. The Emperor was in Speyer and is heading to Regensburg to obstruct the Diet of the Protestants. Someone from the court of Count Wolfgang of Palatinate-Zweibrücken wrote: The Emperor has bid farewell to the lords and cities of the Netherlands, as he intends to be in Spain in three months, but in three years, if God grants him life, he intends to return. He hopes that the situation in the German nation will be better. Thus he wrote.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>We are afflicted by a very severe fever; it strikes down and kills even the strongest. I fear the plague will follow. This calamity reigns not only among us but also everywhere in Alsace and other places, where it takes away almost more cruelly whoever it invades.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Many suffer for up to 20 days and then finally die. May the Lord mitigate this punishment, which we also deserve due to our many crimes.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>I hear nothing at all about our Gilbert. He is handling his brother's business with Lord Granvelle and is rarely at home; but I expect his letters daily. Farewell. The last day of March 1546. Please convey my greetings to Lord Pellikan and our Theodor.</p>
+    </div>
+    <div xml:id="div6" corresp="regest6">
+      <p>I do not know if you have received the annotations on the prophet Haggai. Write back. I will send the rolled-up leather with the book you recently requested a few days later, when I come across a messenger.</p>
+      <p>Yours sincerely, Gastius.</p>
+      <p>To Master Heinrich Bullinger, pastor in Zurich, my dear and gracious lord. Zurich.</p>
+    </div>
+  </body>
+</letter>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12716">
+  <summary>
+    <p xml:id="regest1">[1] Myconius just sent him Bullinger's dispatch [not received] with the transcript of the [decrees of the] sessions of the Council of Trent. Many thanks!</p>
+    <p xml:id="regest2">[2] It's a pity that the confession of faith by [Juan] Diaz (of which Theodor [Bibliander] probably [still] has a copy) was not included. The [“Historia vera de morte Diazii”] cannot be printed because of this. Enzinas has already asked [Martin] Bucer more than ten times for the confession. But since Bucer has much more important things to do, he could not attend to this small matter. Therefore, Enzinas' request to Bullinger to send the confession as soon as possible, if he has not already done so before the arrival of this letter.</p>
+    <p xml:id="regest3">[3] In return, Enzinas is ready to send the people of Zurich whatever they wish. He will also return the sent manuscript [with the decrees of the Council] as soon as it is copied and printed.</p>
+    <p xml:id="regest4">[4] During this week, nothing certain has been learned about the war. Shortly before, however, Bucer had written that Emperor [Charles V] had retreated. But since Bucer could not specify where, it may again be a ruse by the Emperor. Bullinger should communicate anything verified.</p>
+    <p xml:id="regest5">[5] Greetings, also to the colleagues.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. At this hour, Myconius sent me your letters, in which the sessions of the Council of Trent were contained, for which I am very grateful to you.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>And I wish you had sent along the Latin confession of Diaz, which I believe can be found with Theodor, as it is the only thing needed to complete the booklet, and the press is forced to pause until we can obtain it from somewhere. I have asked Bucer more than ten times; but being burdened with serious matters, he has not had the time to think about this minor issue. I ask you, if it has not been sent, to send it with the first messenger when you receive this letter.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Whatever will be worthy of you here, I will send diligently. The sessions themselves, which you now send, will be kept by me and shortly after will be sent both copied and printed.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>We have received no certain news about the war this week. Bucer announced a little while ago that the Emperor had retreated, but he could not specify to which place he had gone, which leads me to suspect that he might be using some deceitful strategy to deceive our people. If you have any certain information, please share it with us.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Farewell with the rest of the brothers.</p>
+      <p>Basel, 11th of November, 1546.</p>
+      <p>Your Francis Dryander.</p>
+      <p>To the most illustrious man, Heinrich Bullinger, most faithful minister of the church of God. Zurich.</p>
+    </div>
+  </body>
+</letter>

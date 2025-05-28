@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file13013">
+  <summary>
+    <p xml:id="regest1">[1] Blasius has conveyed Bullinger's letter [not received] as instructed to the mayor of Chur, Luzi Heim, and other trusted individuals. On their behalf, Blasius is to extend their best thanks to Bullinger.</p>
+    <p xml:id="regest2">[2] He also sends back the two copies that he copied on behalf of Mayor Heim. In the hope that it will be beneficial, the content of those documents will be communicated to the deputies at the upcoming assembly. The current situation is to be discussed at the assembly.</p>
+    <p xml:id="regest3">[3] It is reported from Italy that Pope Paul III and the Venetians have formed an alliance with the French King Henry II; furthermore, that Charles V has publicly declared the [illegitimate] son of the Pope, Pier Luigi Farnese, Duke of Parma and Piacenza, a traitor in Milan because he intended to betray him in Genoa.</p>
+    <p xml:id="regest4">[4] Troops were supposed to gather in Merano and Bolzano. However, this did not happen because the call was unexpectedly canceled.</p>
+    <p xml:id="regest5">[5] Blasius has not seen the letter sent to the mayor of Zurich, Haab. The grain carriers, whom Blasius inquired about this, think that Haab has already received the letter from one of their colleagues living in Fideris. The councilors of Chur have tried to obtain a hunted game for Haab to present to him, but they have not been able to acquire one so far. Therefore, they sent Heim with a load of Italian wine intended for Haab to Fideris, to invite him to Chur, also on behalf of the deputy of the King of France in Graubünden [Jean-Jacques de Castion]. It is believed that Haab will accept this invitation. If he comes, he will be duly received in Chur.</p>
+    <p xml:id="regest6">[6] Johannes Comander and all others return Bullinger's greetings.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Grace and peace from the Lord, etc. I have shared your friendly and necessary letter, as per your command, with Mayor Luzi Heim and other trusted individuals. They have instructed me to extend their highest and most sincere thanks to you.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Furthermore, I am sending you here the two copies, which I transcribed on the order of my lord mayor. He will further communicate them to the good gentlemen at the upcoming assembly, hoping it will serve well, as the assembly is convened due to the current ongoing events, etc.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>From Italy, it is reported that the Pope, the Venetians, and the King of France have formed an alliance; furthermore, that the Emperor has publicly declared Pier Luigi Farnese (Duke of Parma and Piacenza, son of the Pope) a traitor in Milan, as he intended to betray him in Genoa, etc.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Troops were supposed to gather in Merano and Bolzano. However, a beginning was made, but unexpectedly it was canceled again, etc.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>The letter sent to Mayor Haab has not reached me. However, I inquired with the grain carriers. They say they believe he has already received it from someone who is at home in Fideris, etc. My lords have earnestly sought to obtain a hunted game to present to Mayor Haab, but so far, it has not been successful. Therefore, they sent our mayor along with a sum of Italian wine to Fideris to invite him to come to Chur, also on behalf of the King's deputy from France. It is believed that he will accept this invitation. If he comes, he will be received and treated honorably by our people, as he deserves, etc.</p>
+    </div>
+    <div xml:id="div6" corresp="regest6">
+      <p>Given in Chur, July 25, 1547.</p>
+      <p>Jo. Blas., entirely and sincerely yours.</p>
+      <p>Comander and all others send their greetings back to you.</p>
+    </div>
+  </body>
+</letter>

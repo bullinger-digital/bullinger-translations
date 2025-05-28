@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file104">
+  <summary>
+    <p xml:id="regest1">Bullinger sends Serin the manuscript of his writing [«De Naemanni adoratione»] back, as no printer could be found for it either in Zürich or in Basel (as can be gathered from the enclosed explanations by Johannes Gast). He is now also forwarding the copy to Ambrosius Blarer in Konstanz. Blarer will inform Serin himself whether he was able to find a printer.</p>
+    <p xml:id="regest2">Due to lack of time, Bullinger was unable to make a copy of Serin's writing. However, if Serin could send him one (he asks for this earnestly), he will thank him with a book gift.</p>
+    <p xml:id="regest3">Greetings. He cannot write more at the moment due to his official duties.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. Not without sorrow, my brother, I return to you the useful booklet. For no one among us has accepted it for printing. Therefore, I have sent it to my friend Gast in Basel. He returned it, as you can read from his present handwriting or autograph. I have also begun another plan and have given a copy to our Blaurer. But what he has accomplished, he will inform you himself.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>If it had been possible due to the constraints of time, I would have surely arranged for it to be copied. But if you could arrange for a copy to be made for me and send the copied example to me, I will give you another book in return for this one. Indeed, I earnestly ask you to arrange for it to be copied for me, and thus do me this favor.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Farewell forever. For due to my present duties, I could not write more. Zürich, 28th April 1548.</p>
+      <p>Your Bullinger.</p>
+      <p>To the beloved brother, D. Leonhard Soerin, preaching among the people of Ulm. Ulm.</p>
+    </div>
+  </body>
+</letter>

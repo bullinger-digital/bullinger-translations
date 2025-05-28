@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12482">
+  <summary>
+    <p xml:id="regest1">Gast could not find Myconius at home, and the messenger [...] will [already] depart in two hours. Myconius is said to have written a letter to Bullinger four days ago [No. 2428 or No. 2438].</p>
+    <p xml:id="regest2">- Enclosed are the missing [sections] of the Cyril edition from Gast's own copy. When [Bartholomäus] Westheimer [from Frankfurt] returns, he will replace these for Gast.</p>
+    <p xml:id="regest3">- [Johannes] Oporin suffered an immense loss due to a shipwreck in the port of Mainz. Three of his [book] barrels could only be salvaged from the water after four hours. Oporin's situation is critical, for how is he to satisfy his creditors now, even though it is said that he sold the remaining books quite successfully at the [Frankfurt] fair? With a bit of luck, he could have settled all his debts.</p>
+    <p xml:id="regest4">- The enclosure [unknown] is intended for Theodor [Bibliander] to read, whom Gast would have also written to if there had been time. Greetings to [Johannes] Fries, who should explain why he did not respond through the messenger sent to him [...].</p>
+    <p xml:id="regest5">- Gast could not read the letter again.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings in the Lord. I did not find Myconius at home, and the messenger was ready to depart in two hours. Myconius also wrote to you about various matters four days ago, as he told me yesterday.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Here is the missing part from Cyril, from my own copy, which Westheimer will complete when he returns.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>But hey, mourn with us! Our Oporinus suffered a shipwreck in the port of Mainz. Three barrels were submerged and extracted after four hours. The paper was completely soaked. Thus, the Lord does not want this excellent and pious man to emerge or be burdened with wealth. He suffered a huge and hardly surmountable loss unless the Lord shows another way to satisfy his creditors, even though I heard from our merchants that he had quite successful sales of the remaining books at the fair and had a favorable outcome. He would have completely freed himself from those usurers from whom he had borrowed money if he had had success with fortune.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>But it seemed so to the Lord, and this cross, although burdensome, must be borne with a calm mind. The Lord will mitigate and give a better outcome than we ever believed.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Farewell. You will send this to be read by Theodor; for I would have written to him as well, but the messenger was in a hurry. Greet our Fries and tell him to explain why he did not respond through that certain messenger whom I sent to him.</p>
+      <p>Basel, Tuesday after Easter. I did not read it again. Yours, Johannes Gast.</p>
+      <p>To the most learned and kind man, Mr. Heinrich Bullinger, the most vigilant pastor of the Church of Zurich, his beloved brother. Zurich.</p>
+    </div>
+  </body>
+</letter>

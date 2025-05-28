@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12730">
+  <summary>
+    <p xml:id="regest1">[1] Why does Bullinger think that writing letters frequently is a waste of his time? There is nothing more useful, as Myconius will prove to him when he has more time again.</p>
+    <p xml:id="regest2">[2] A Catholic priest [...] from Freiburg [i. Br.?], who came from Italy, was asked for news in Basel and reported that everything was calm there. Pope [Paul III] is said to have sent 2000 horsemen for Emperor [Charles V], but they remained in Parma and the surrounding areas after it became known that the Emperor had moved into winter quarters.</p>
+    <p xml:id="regest3">[3] The misconduct of Jakob Reinhart is a disgrace for the entire Confederation!</p>
+    <p xml:id="regest4">[4] The terrible, almost unbelievable news about Duke Maurice [of Saxony] is interpreted as if he occupied Electoral Saxony only for the purpose of defense [against Bohemia] and not to assert his claim to this territory. Nothing is known about the content [of the letter] that the Zurich messenger [Anton Esche] brought to the Basel [Council]. The messenger himself could not report anything about it.</p>
+    <p xml:id="regest5">[5] Allegedly, the French [King Francis I] and the Pope are at odds for significant reasons. However, Myconius knows nothing more about it.</p>
+    <p xml:id="regest6">[6] Few believe that the gravely ill Emperor is still alive. When he shows himself to the soldiers, they rather consider his appearance to be a ghost. It is astonishing that there is still so much unbroken willpower in this corpse! To him, people are worth less than cattle! The main thing is that things go according to his will. May the Lord crush him!</p>
+    <p xml:id="regest7">[7] Greetings, also to Gwalther. Myconius must go to dinner.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. I do not know what you mean when you write that you fear you are wasting your effort by writing so frequently. Believe me, you could do nothing more useful. I will explain the reasons when I have more time, for now, there is nothing less.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>A priest from Freiburg came here from Italy. When asked what news he brought, he replied that everything there is very peaceful; two thousand horsemen sent by the Pope remained in Parma and the surrounding cities after hearing that the Emperor had gone into winter quarters.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>We are astonished by Jakob Reinhart's misconduct, which brings disgrace to all the Swiss Confederation.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Everyone is so pained by the news about Duke Maurice that they can hardly believe what is being said. It is believed that he occupied Saxony to defend it, not to claim it. We still do not know what your messenger brought. He himself could not answer anything to those who asked, except "I do not know."</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>It is said that the French King is at odds with the Pope for significant reasons, which I still do not know.</p>
+    </div>
+    <div xml:id="div6" corresp="regest6">
+      <p>Few believe that the Emperor is still alive, as they think any appearance of him among the soldiers is a ghost. Due to the severe illnesses he certainly suffers from, they conclude this. It is indeed astonishing that there is such an ambitious and unbroken spirit in this corpse. He knows how to protect himself, whatever happens to his own. To him, people seem to be equal to beasts, or even worth less, as long as his own mind is satisfied. May the Lord break him!</p>
+    </div>
+    <div xml:id="div7" corresp="regest7">
+      <p>Farewell in Christ with your family and Gwalther. Basel, shortly before dinner, November 19, 1546. Yours, Oswald Myconius.</p>
+      <p>To the most learned and pious Heinrich Bullinger, his revered lord in Christ. Zurich.</p>
+    </div>
+  </body>
+</letter>

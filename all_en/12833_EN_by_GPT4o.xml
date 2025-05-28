@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12833">
+  <summary>
+    <p xml:id="regest1">[1] The letter [No. 2778] sent with this note was entrusted by Blarer to his cousin Konrad Zwick [who was traveling to Zurich]. However, Zwick forgot to deliver it.</p>
+    <p xml:id="regest2">[2] Zwick shares that Bullinger can view a copy of the letter [written in the name of the Konstanz council] [to the Four Cities] with the Zurich city clerk [Hans Escher vom Luchs]. He did not get around to copying it for Bullinger. He must already be on a business trip again.</p>
+    <p xml:id="regest3">[3] A delegation from the Bishop of Konstanz, Johann von Weeze, appeared today before the Konstanz council. They warned them and said that the bishop was ready to negotiate with Emperor Charles V in favor of Konstanz. May the people of Konstanz remain steadfast!</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>I sent this letter to you with my cousin. He forgot it in his bag; I am sending it now.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>I should inform you that you will find a copy of his proposal with your city clerk. He did not have time to copy it. He must ride away again immediately.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Our bishop had his delegation appear before the council today, warned my lords, etc., and also declared that he would gladly be a negotiator with the imperial majesty; and he means it all sincerely and fatherly, etc. Oh eternal God, give heart and strength, that we may remain steadfast!</p>
+    </div>
+  </body>
+</letter>

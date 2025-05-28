@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12814">
+  <summary>
+    <p xml:id="regest1">[1] Since [Thomas] Knight knows that Bullinger is closely friends with Richard Hilles, he entrusts him with this small bundle intended for Hilles for safe forwarding [to Strasbourg], in case John Burcher has not yet returned from England. Burcher will reimburse Bullinger for the costs incurred.</p>
+    <p xml:id="regest2">[2] In Venice, the Gospel is preached as purely as nowhere else in Italy. The Senate ordered that during the upcoming Lent, sermons should be held every day in the "Palatium maior." Such a thing has never happened before! The number of believers is growing day by day. Bullinger's [Bible] commentaries are increasingly appreciated in Italy. If they were not so thick and expensive, no other books would sell better. Bullinger should continue to make his extraordinary gifts, bestowed upon him by the Holy Spirit, available from his abundantly stocked provisions to the timid, hungry, and thirsty [Italian] people. The messenger [...] will convey further news.</p>
+    <p xml:id="regest3">[3] Bullinger, whom God has chosen as a pious and faithful shepherd, may remain with the believers until they arrive in the promised land!</p>
+    <p xml:id="regest4">[4] [P.S.:] Knight includes a small vessel labeled with Hilles’ name in the aforementioned bundle.</p>
+    <p xml:id="regest5">[5] [Later P.S.:] Due to lack of space, Knight could not include the small vessel with figs in the messenger's luggage. Therefore, Bullinger only receives the small bundle marked with the initials R. H.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings in Christ. Since I have learned, reverend and pious father, that you are not just an ordinary but a singular friend to Lord Richard Hilles, an Englishman, I deemed it worthy, that if John Burcher, an Englishman and resident of your city, has not yet returned from his journey to England, to entrust this small bundle to you, so that it may reach the hands of the aforementioned Richard more safely and quickly. For any expenses you incur for the delivery, John Burcher will reimburse you upon his return.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>The Gospel is preached here in Venice much more sincerely than elsewhere in Italy, and by decree of the Senate, it has been decided to hold a sermon every day in the "Palatium maior" during the upcoming Lent; something never seen since the founding of the city. The number of believers is growing more and more. Your commentaries are becoming increasingly valued among Italians, and if they were not so large and expensive, no other books would sell better. Therefore, it will be your charity to continue to offer those rare gifts of the spirit from your abundant store to the small flock, hungry and thirsty. If there is anything else new, you will be able to learn it from this bearer.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>May the Lord, who has chosen you for us as a pious and faithful shepherd, keep you with us happily for a long time, and finally grant that we may arrive together in the promised land. I earnestly beseech you to commend me to Christ along with yours.</p>
+      <p>Venice, January 23, 1547.</p>
+      <p>Your humble son, and most ready servant for all duties, Thomas Knight, Englishman, bookseller.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>You will receive with the small bundle a vessel marked with Richard's name. It will be your charity to ensure through friends that it is transferred to him.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>You will not receive the vessel of figs, as it could not find a place in this chest; but I am sending only the small bundle marked with the letters R. H. through this messenger.</p>
+      <p>To the reverend father Lord Heinrich Bullinger, most vigilant pastor of the church of Zurich. In Zurich.</p>
+    </div>
+  </body>
+</letter>

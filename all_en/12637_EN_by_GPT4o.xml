@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12637">
+  <summary>
+    <p xml:id="regest1">There are many rumors, but Gast has learned that the Strasbourg professor Johannes Sturm has come to [Basel] as an envoy of King [Francis I] with the Italian [Piero] Strozzi (a learned man) [from Lyon] and assured that the said king is ready to help the [Schmalkaldic League]. Now that it has become colder, Strozzi wants to try to entice the Italians serving in the [army] of Emperor [Charles V].</p>
+    <p xml:id="regest2">- Paul Fagius has been called by [Elector Frederick II of] the Palatinate to Heidelberg to reform the university.</p>
+    <p xml:id="regest3">- In Brabant and Holland, an unprecedented famine is said to have claimed many victims. God torments the people so that they recognize that he is the Lord.</p>
+    <p xml:id="regest4">- A peasant [from Further Austria] had his tongue cut out by his authorities just because he wished the plague upon the Emperor. This shows the madness of these people!</p>
+    <p xml:id="regest5">- Myconius will report more.</p>
+    <p xml:id="regest6">- Gast recommends his relative, the bearer [Johannes Georg Grünblatt].</p>
+    <p xml:id="regest7">- Greetings to Theodor [Bibliander] and [Konrad] Pellikan.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings in the Lord. I have nothing certain to write to you. But everything is full of vain rumors. But I dare to say this: Johannes Sturm, professor of the liberal arts in Strasbourg, has come from the King of France as an envoy, also with him is Strozzi the Italian, a learned man. He attempts to make the Italians who are with the Emperor defect, especially now that the cold has set in. May God give him wisdom for this! They have ordered us to hope well from the French and their aid, if they could have any opportunity.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Paul Fagius has been called by the Elector Palatine to reform the University of Heidelberg.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Furthermore, I heard here yesterday from the Brabanters that there is a great famine in Brabant and Holland, the likes of which has never been heard, where many people are dying of hunger. Thus God plagues these people on the right and on the left. But nothing will help until God pours out the bucket of his wrath, so that they recognize that God is the Lord.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>A peasant has said he wished that the Emperor had the plague, so that he would no longer wage war and they would be unburdened by him. This peasant has been accused. The authorities have captured him and cut out his tongue. See the madness of these people!</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Myconius will report the rest. Farewell. 18th September 1546.</p>
+    </div>
+    <div xml:id="div6" corresp="regest6">
+      <p>I commend to you my relative, the bearer of this letter, and assist him with your advice!</p>
+    </div>
+    <div xml:id="div7" corresp="regest7">
+      <p>I wish all happiness to Theodor Bibliander and Konrad Pellikan. Yours, Gastius.</p>
+      <p>To the most distinguished and learned man, Heinrich Bullinger, the most vigilant pastor of the Church of Zurich. Zurich.</p>
+    </div>
+  </body>
+</letter>

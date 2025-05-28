@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12858">
+  <summary>
+    <p xml:id="regest1">[1] Enzinas would much prefer to speak with Bullinger in person than to disturb him, who is so busy, with a letter. However, he must deliver the enclosed letter addressed to Bernardino Ochino, so that Bullinger can forward it as quickly as possible.</p>
+    <p xml:id="regest2">[2] Enzinas will set off for Zurich in three or four days. Then they can discuss everything in detail.</p>
+    <p xml:id="regest3">[3] Should letters for Enzinas arrive in Zurich from Basel or other places, Bullinger should keep them. This should also be communicated to Johannes Fries.</p>
+    <p xml:id="regest4">[4] Greetings, also to the colleagues.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. I would indeed prefer to speak with you in person rather than trouble you with a letter, as you are already quite busy. However, these letters had to be sent to Bernardino, and I earnestly request that you send them with the first messenger.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>I will set off for Zurich in three or four days, where we can discuss all matters more thoroughly in person.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>In the meantime, if any letters arrive for me either from Basel or elsewhere, please keep them with you until I come. Please also inform Fries of the same.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Convey my greetings to all the brothers, whom I will see shortly, God willing. Farewell.</p>
+      <p>St. Gallen, 12th February 1547.</p>
+      <p>Yours, Francisco Dryander.</p>
+      <p>To the most distinguished man, Lord Heinrich Bullinger, in Zurich.</p>
+    </div>
+  </body>
+</letter>

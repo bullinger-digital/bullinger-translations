@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12746">
+  <summary>
+    <p xml:id="regest1">[1] Claudius takes the liberty to ask Bullinger to forward the enclosed letter to Basel, as he was encouraged to do so by his lord [Hieronymus Sailer] and the Spanish friend Francisco de Enzinas.</p>
+    <p xml:id="regest2">[2] Bullinger can learn the news from Hans Vogler [the Elder]. Sailer wrote to him yesterday. The withdrawal of [Elector Johann Friedrich of Saxony and Landgrave Philipp of Hesse] now seems assured. The Elector must defend his territory, as it is currently being devastated, with the exception of Wittenberg and Gotha, with the involvement of the Bohemians and Hussars by Duke Moritz [of Saxony]. The intentions pursued by the Duke remain unclear. Vogler will provide the rest of the information.</p>
+    <p xml:id="regest3">[3] Greetings.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Your Excellency may perhaps wonder at the audacity with which I dare to impose this task upon you. However, since my lord has long affirmed that he has enjoyed your friendship with great pleasure, and since you have Francisco de Enzinas, the Spaniard, as a friend, I do not doubt that, at the behest of both, you will send my letters to Basel, knowing that you will do so gladly and as soon as possible for their sake.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>The lord instructs you to inquire about the news from Hans Vogler, your fellow citizen, to whom he wrote yesterday. The withdrawal of the princes is now being reported quite reliably. For the Elector of Saxony finds it more necessary to defend his own territory and repel the injury inflicted at home than to inflict it on others abroad. For Duke Moritz, with large forces composed of Bohemians and light-armed raiders (whom we commonly call Hussars), is ravaging his region and has already occupied most towns except for Wittenberg and Gotha. With what intention or spirit, this is not yet known. The rest will be communicated by Vogler the Elder.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Farewell. On the first of December. Matthias Claudius, teacher of the sons of Hieronymus Sailer, most devoted to your Excellency.</p>
+      <p>To the most distinguished and honorable man Heinrich Bullinger, preacher of the church of God in Zurich, his lord and most esteemed patron. In Zurich.</p>
+    </div>
+  </body>
+</letter>

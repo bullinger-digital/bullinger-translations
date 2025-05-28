@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file1">
+  <summary>
+    <p xml:id="regest1">Gesner asks Bullinger to review his writing [«Pandectarum libri XXI»]. If Bullinger's time does not suffice for this, he should at least read the last part on theology [«Partitiones theologicae»]. The review of the rest is not urgent at the moment.</p>
+    <p xml:id="regest2">Bullinger should keep the manuscript, which is entrusted exclusively to him, and convey his opinion on the writing to Gesner verbally.</p>
+    <p xml:id="regest3">If Gesner's request is too presumptuous, Bullinger should forgive him.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. I ask you, most illustrious Mr. Bullinger, to kindly read through this writing of mine when you have the time, and if you have less leisure, at least read the latter part, which is about church discipline.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>The earlier parts may seem of lesser importance.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>I wanted to simply express my thoughts to you alone and also ask that you keep it to yourself and, when the occasion arises, share your opinion with me, only verbally. And if I seem too importunate to you, please forgive me.</p>
+      <p>Yours sincerely, Conrad Gesner.</p>
+    </div>
+  </body>
+</letter>

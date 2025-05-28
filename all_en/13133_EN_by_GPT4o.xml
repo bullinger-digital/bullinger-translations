@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file13133">
+  <summary>
+    <p xml:id="regest1">[1] The letter delivered here has just arrived, and Blarer was instructed to forward it to Bullinger. Blarer includes another letter with this one, which is so important that he decided to send both letters to Bullinger with his own messenger [...] because he thinks their contents are of interest to the people of Zurich. Bullinger should send the second letter back with the bearer.</p>
+    <p xml:id="regest2">[2] Today he will likely have received Blarer's letter [No. 3083 from November 23].</p>
+    <p xml:id="regest3">[3] He prays earnestly for the people of Konstanz.</p>
+    <p xml:id="regest4">[4] Georg Frölich confidentially reports that he, along with his wife [Anna, née Lochner] and children, must move out of his house to make it available to strangers.</p>
+    <p xml:id="regest5">[5] At four o'clock in the afternoon.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Dear sir and brother, this letter, having just arrived at this hour and instructed to send it to you, along with the other letter which I am sending to you herewith, is so important, as you have perceived, that I wanted to send it to you with my own messenger, as I am concerned that there might be something contained within that is necessary to know. Therefore, please take it in good faith. I have truly done it with the best intentions, and please send the other letter back to me without delay.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Note, you should have received a letter from me today.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Ah, praying to God with heart and faith for us, that we may be preserved through all tribulations in His grace.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Lętus writes in great confidence that he must move out of his house with his wife and children and leave it to strangers.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Given on the 24th of November at 4 o'clock in the afternoon.</p>
+      <p>To Master Heinrich Bullinger in Zurich.</p>
+    </div>
+  </body>
+</letter>

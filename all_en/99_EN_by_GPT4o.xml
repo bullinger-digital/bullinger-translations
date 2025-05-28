@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file99">
+  <summary>
+    <p xml:id="regest1">[The writing «De Naemanni adoratione» by Leonhard Serin cannot be printed in Basel.]</p>
+    <p xml:id="regest2">[...] Gast has shared the news, for which he was thankfully informed by Bullinger's letter [not received], with Oswald Myconius as well.</p>
+    <p xml:id="regest3">From Basel, there is only the news that [since January 1547] the imprisoned Junker Claus von Hattstatt in Ensisheim has been brought to Emperor Charles V in Augsburg. Presumably, he will be executed there.</p>
+    <p xml:id="regest4">King Ferdinand I wants to exterminate the Bohemian Brothers in Moravia, which is why he persecutes them and has them burned at the stake. The Anabaptists are also affected by the persecutions. As a result, many of them have moved together to Hungary to submit to the Ottomans. There, they received a piece of land for settlement from [Jahjapaschazade Mehmed] Pasha.</p>
+    <p xml:id="regest5">Celio Secondo Curione has learned by letter that the Gospel may be freely preached in Venice. According to an eyewitness [N.N.], the same is true in Würzburg, where even the church hymns are sung in German!</p>
+    <p xml:id="regest6">Sebastian Schertlin is at the court of King Henry II in Lyon. He is having his men recruit foot soldiers.</p>
+    <p xml:id="regest7">Gast recommends his brother-in-law [Johann Georg Grünblatt], the bearer of this letter. Bullinger should help him, provided he is kindly disposed towards [Grünblatt's] compatriots.</p>
+    <p xml:id="regest8">Greetings. Gast will write more shortly.</p>
+    <p xml:id="regest9">[P.S.:] As soon as he has procured the edition of Cicero's «De officiis», he will send it to Bullinger.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>[...]</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>[... I give thanks] for the new things written to me, which I have also shared with Mr. Myconius.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>We have no new news, except that Junker Claus von Hattstatt has been taken from Ensisheim to Augsburg to the Emperor. I suspect he will be a head shorter...</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>In Moravia, a great persecution has been instigated by Ferdinand. Many are being driven out, many are being burned, for the king wants to exterminate the Waldensians and Picards. The Anabaptists must also suffer. Many have moved together to Hungary, submitting to the Turks. A pasha has given them a piece of land to cultivate.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>It is written to Mr. Celio that the Gospel may be freely preached in Venice without hindrance. Likewise, in Würzburg, the Gospel is preached; psalms are sung in German. This was said by someone who saw and heard it with his own eyes.</p>
+    </div>
+    <div xml:id="div6" corresp="regest6">
+      <p>Captain Schertlin is in Lyon at the court of the king. He has secretly gathered foot soldiers through his men.</p>
+    </div>
+    <div xml:id="div7" corresp="regest7">
+      <p>The bearer of this letter, who is my brother-in-law, I wish to commend to you, so that you may assist him, if you have any friendship with those among whom he has lived and was born.</p>
+    </div>
+    <div xml:id="div8" corresp="regest8">
+      <p>Farewell. More shortly. Basel, 20th April 1548.</p>
+      <p>Yours sincerely, Gastius.</p>
+    </div>
+    <div xml:id="div9" corresp="regest9">
+      <p>I will send the works of Cicero shortly, if I can procure them.</p>
+      <p>To the Reverend Mr. Heinrich Bullinger, most vigilant pastor of the church in Zurich.</p>
+    </div>
+  </body>
+</letter>

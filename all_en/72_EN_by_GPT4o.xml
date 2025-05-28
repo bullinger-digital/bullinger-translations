@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file72">
+  <summary>
+    <p xml:id="regest1">Cousin received Bullinger's usual loving and caring letter from November 2, 1547, on January 14, 1548.</p>
+    <p xml:id="regest2">To prevent Bullinger from worrying unnecessarily, Cousin is sending his letters from August 1547 [to Bullinger (hbbw XX, No. 2974), Rudolf Gwalther (Zürich ZB, Ms F 38, 189r.-192v.), and others], which did not arrive, again as a copy. This bundle of letters is delivered [by his brother Antoine Cousin]. The writings are completely harmless! Bullinger should hand over the enclosed copies to the recipients. Since these recipients know Cousin's handwriting very well, he dispenses with legitimization by his seal.</p>
+    <p xml:id="regest3">What will the new year bring? It is commonly believed that one can predict the course of the entire year based on the weather of January 25: Strong winds are expected to bring war, fog a plague, and rain or snow a famine. But this year, on January 25, there was wind, rain, snow, and hail around Nozeroy! May God not let this [bad] omen come true! Already many are sick and some are dying. In addition, there are large troop levies everywhere [...] and the shortage of food is worsening day by day, even though people have already become accustomed to it. May God bring it to a good end! Many predict that the current year will be by far the worst and that the end of the world is near. [If this is true,] may God grant Cousin's soul the chance to behold the kingdom of heaven!</p>
+    <p xml:id="regest4">That's all for now! Cousin cannot write more, as the departure of the messenger [Antoine Cousin] cannot be delayed any longer.</p>
+    <p xml:id="regest5">Greetings. Bullinger should remain well-disposed towards Cousin. Greetings to Rudolf Gwalther and Konrad Gessner as well as to all those to whom Cousin also wishes all the best.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. After the Ides of January, dearest Bullinger among dear friends, I received your letter written on the fourth day before the Nones of November, in which, as usual, you provide the truest proof of your love for me, full of anxious concern for my affairs.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>However, so that you may not fear in vain, since a most reliable man has come who will deliver the letters, it seemed right to send again the copies of the letters sent long ago. In these, I wrote nothing that could bring danger to anyone. I ask that you ensure the letters I send to you unsealed are delivered to those to whom they are addressed. It does not matter if the seal is absent, since my handwriting, with which I have signed, is very well known to all of them.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>What kind of year this will be, I do not know. The common people usually predict the state of the whole year from the day of the conversion of Paul, which, if it is stormy with winds, they expect war; if foggy, a plague; if rainy or snowy, a scarcity of provisions. This year, that day had fog, winds, rain, snow, and hail in this region! May the Lord make this omen false. Already many are sick, and some are dying. There is a great levy of soldiers everywhere. The scarcity of provisions worsens daily, although we have already become accustomed to it. May the Lord turn everything to a happy outcome. Many predict this year will be by far the most severe of all and that the last day of the world is near. May the heavens grant us this, that I may behold the dwelling of such a friendly mind.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>That's all for now. For the departure of the messenger does not allow me to converse with you longer.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Farewell happily and continue to love your Cousin, as you do. Greet Rudolf Gwalther and Konrad Gessner and all others to whom I am accustomed to wish all good things. Given at Nozeroy, 16 days before the Calends of April, in the Christian year 1548.</p>
+      <p>Yours sincerely, as you know, Gilbert Cousin of Nozeroy.</p>
+      <p>To the most accomplished professor of theology, Mr. Heinrich Bullinger, his incomparable master. In Zurich.</p>
+    </div>
+  </body>
+</letter>

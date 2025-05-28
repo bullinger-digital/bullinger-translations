@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12996">
+  <summary>
+    <p xml:id="regest1">[1] The bearer [...] of this letter asked Sturm for a letter of recommendation because he wishes to study in Zurich. Since Sturm is always happy to assist students, he asks Pellikan to let it be known that his recommendation is not ineffective. He requests the same from Bullinger, to whom this letter should also be shown. Sturm already knows that the people of Zurich always stand up for good people. Nevertheless, with this letter, he wishes to ensure that the student is also grateful to him for the goodwill of the people of Zurich.</p>
+    <p xml:id="regest2">[2] In Strasbourg, there is "peace," but unfortunately, that famous saying of Demosthenes is all too true: One cannot trust tyrants. Poor Germany!</p>
+    <p xml:id="regest3">[3] Greetings.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. The bearer of this letter is coming to you for the sake of his studies and has asked me to not fail him in my recommendation. And since I wish and desire to assist all who are studious, I ask you, dear Pellican, to fulfill my wish by ensuring that my recommendation holds some weight, and that he feels my letter has indeed brought him something. I ask the same from dear Bullinger, from whom I would like you to request this on my behalf. I am asking you this in many words, not because I am unaware of your goodwill and dedication towards good people, but so that he may have some gratitude towards me for your benevolence, which I know you will show him.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>We have peace here, if it is not true what Demosthenes said: "Tyranny is always untrustworthy." Oh, poor Germany!</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Farewell, my dear Pellican, my dear Bullinger! Farewell to all. Strasbourg, the eleventh of July. Your Johannes Sturm.</p>
+      <p>To the most distinguished man, his esteemed lord Konrad Pellican.</p>
+    </div>
+  </body>
+</letter>

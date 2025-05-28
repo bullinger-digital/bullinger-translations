@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12982">
+  <summary>
+    <p xml:id="regest1">[1] The bearer, Gabriel Arnold von Rohrenfels, is the treasurer of Elector Palatine Ottheinrich as well as a councilor of Elector Friedrich of the Palatinate. Like Schertlin, he had to leave his homeland due to his evangelical beliefs and is now traveling around. Since he would like to visit the beautiful city of Zurich, he asked for a letter of recommendation. Schertlin hereby fulfills this wish for him. The people of Zurich should be friendly to him. He is trustworthy, and they will learn news from him.</p>
+    <p xml:id="regest2">[2] Arnold will tell the news.</p>
+    <p xml:id="regest3">[3] Since [Schertlin's visit to Zurich], has anything more specific been learned from the Diet in Baden about the plans of those hostile to him?</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Dear and trusted friend, Master Heinrich, the bearer of this letter, Gabriel Arnold von Rohrenfels, treasurer of my gracious lord Duke Ottheinrich, Elector Palatine, and councilor of Elector Friedrich of the Palatinate, etc., a true lover of the word of God and, like myself, exiled for the same reason, is traveling around to pass the time and wishes to visit the beautiful city of Zurich. He has asked me to provide him with a letter of recommendation so that he may see the city and its various beautiful sights. I could not refuse him this (and recognize that I owe him all honor), so I am sending him to you, kindly asking you to accommodate him and provide good company. You will also be able to learn about various current matters from him. He is trustworthy. Show him friendliness, which I, in turn, will earnestly reciprocate for you.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>I write to you the latest news, as much as I have, but you will learn it verbally from him.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Since my visit to Zurich, I would like to know from you in confidence what has been learned from Baden about the intentions of those people against me. Dated in Konstanz, June 28, 1547. S. Schertlin, knight, signed.</p>
+      <p>To the honorable and well-learned Master Heinrich Bullinger, pastor in Zurich, etc., my dear lord and good friend.</p>
+    </div>
+  </body>
+</letter>

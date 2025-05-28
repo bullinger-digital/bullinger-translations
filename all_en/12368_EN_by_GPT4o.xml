@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12368">
+  <summary>
+    <p xml:id="regest1">Bullinger has nothing interesting to share with Myconius, but writes because he has a reliable messenger [...]</p>
+    <p xml:id="regest2">- Friends wrote from Hesse [HBBW XV, No. 2305, and a letter not preserved] about the cruel plans of [Duke Heinrich of] Brunswick. In his camp, they found shields that he intended to attach to the gates of the [conquered] cities after his victory: One with his insignia of power for granting mercy to those who would surrender (while those who resisted would have been executed). The other shield with torches and brooms as a sign that the respective city would be set on fire and swept clean. That such a tyrant is now treated mildly is indeed fitting! [The friends from Hesse] also write that nothing has been decided about the tyrant yet, and that the younger [Karl Viktor] in Kassel [correct: Marburg] frequently plays ball. The letter was written on December 9 [1545] in Marburg.</p>
+    <p xml:id="regest3">- The messenger can provide information about the [Zürich] affairs.</p>
+    <p xml:id="regest4">- Bullinger's last letter [HBBW XV, No. 2314] was delivered by the citizen of Wil [Thomas Grunder].</p>
+    <p xml:id="regest5">- Greetings to [Johannes] Gast.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Grace and innocence of life from the Lord. Because I had a reliable messenger, I wanted to write, at least so as not to remain completely silent. Otherwise, I have nothing to say that would be of great importance for you to know.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Friends write from Hesse about the utterly cruel plans of [Duke Heinrich of] Brunswick. In the camp, paintings were found that he intended to affix to the gates of the cities after victory. One indeed had the insignia of the tyrant: signs of clemency, yet tyrannical; for that city was not to be devastated, but plundered with those resisting being killed, and those surrendering being accepted. The other had a torch and brooms: a sign that the city should be reduced to ashes by fire so that it could be swept with brooms. Indeed, such a tyrant is deservedly received and treated most mercifully! They add that nothing has yet been decided about the prince or tyrant; the younger [Karl Viktor] frequently plays ball in Kassel. The letters were written in Marburg, December 9.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>The messenger here can report to you about our affairs. Farewell with all good people and friends. Zürich, January 3, 1546.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>I assume the last letter was delivered to you by the citizen of Wil. Greet Mr. Gast.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Your Bullinger.</p>
+      <p>To the most excellent man, Mr. Oswald Myconius, the most faithful minister of the Basel church, his always esteemed lord and brother.</p>
+    </div>
+  </body>
+</letter>

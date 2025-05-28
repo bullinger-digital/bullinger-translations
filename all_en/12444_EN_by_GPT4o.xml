@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12444">
+  <summary>
+    <p xml:id="regest1">The Zurich messenger [Hans Heinrich Tischmacher] has not received Bullinger's letter nor delivered the writing of Theodoret [“De providentia sermones X”]. Hertwig does not know how to reciprocate Bullinger's goodwill, especially since he has already rendered so many services and given him gifts so often.</p>
+    <p xml:id="regest2">- Bullinger should buy the book he wrote about and hand it over to Hertwig's relative Jakob Stapfer. He will soon travel [to Solothurn]. Bullinger should also inform Stapfer of the price of the book. Since [Tischmacher] wishes to depart, Hertwig cannot write further.</p>
+    <p xml:id="regest3">- Greetings.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings, most learned Heinrich. The Zurich messenger has delivered your letters to me, along with the newly printed Theodoret (which you had mentioned some time ago). However, I am at a loss as to what to write to you or how to respond to your goodwill and kindness towards me. You have indeed overwhelmed me with your services, adding benefits and gifts to your duties, and you have entirely removed any possibility of a deserved and fitting expression of gratitude. There is nothing left for me but to confess that I owe you everything and to dedicate to you all that the Lord has granted me, both internal and external goods, who may also supply what is lacking in me.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Buy the book you wrote about and hand it over to my dear relative Jakob Stapfer. He will bring it to me, as he indicated to me that he will soon be traveling to us. He will report the indicated price back to you. Due to the messenger's departure, I could not be more lengthy.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Farewell, most excellent Heinrich. Solothurn, March 29, in the year of our salvation 1546. Your most devoted</p>
+      <p>Georg Hertwig.</p>
+      <p>To the learned and pious Lord Heinrich Bullinger, preacher in Zurich, his most esteemed lord.</p>
+    </div>
+  </body>
+</letter>

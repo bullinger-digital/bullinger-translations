@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12905">
+  <summary>
+    <p xml:id="regest1">[1] Bullinger thanks for Myconius’ letter [No. 2855]. He has already conveyed his news [with No. 2850] through Christoph Froschauer.</p>
+    <p xml:id="regest2">[2] Francisco de Enzinas should be informed that Bullinger has received everything well from him.</p>
+    <p xml:id="regest3">[3] It is certain that the Bohemians do not want to go to war [against Elector Johann Friedrich of Saxony]. Bullinger has read the manifesto of their uprising directed [against Ferdinand I.]. Therefore, the Elector does not need to fear them.</p>
+    <p xml:id="regest4">[4] Myconius should immediately deliver the enclosed letter to Sebastian Münster, so that he can entrust the money [intended for Erasmus Oswald Schreckenfuchs] to the bearer [Andreas Müller] of the present letter.</p>
+    <p xml:id="regest5">[5] Greetings to Johannes Gast and thanks for his letter [No. 2848].</p>
+    <p xml:id="regest6">[6] Also, greetings to the colleagues and friends. In haste.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. I have received your letters, most esteemed Myconius, and I thank you for your faithfulness and effort. I have written what I had to say through Froschauer.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Tell Dr. Dryander that I have received everything and express my gratitude.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>It is certain that the Bohemians have conspired not to bear arms outside their own territory. I have seen and read the written conspiracy. Therefore, the Elector has no reason to fear them in this regard.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>You will ensure that this letter is immediately delivered to Dr. Münster, so that he can hand over the money to me through this specific messenger.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Convey my friendly greetings to Gast and thank him for his most diligent letters.</p>
+    </div>
+    <div xml:id="div6" corresp="regest6">
+      <p>Farewell. Greet the brothers and friends. March 23, 1547. In great haste. Your Bullinger.</p>
+      <p>To the most distinguished man, Dr. Oswald Myconius, most esteemed lord and brother. Basel.</p>
+    </div>
+  </body>
+</letter>

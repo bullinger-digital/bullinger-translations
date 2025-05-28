@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12985">
+  <summary>
+    <p xml:id="regest1">[1] Yesterday, Blarer entrusted a letter [No. 2935] to the young Maximilian Seemann. If Bullinger has not yet received it, it will certainly happen in the next few days.</p>
+    <p xml:id="regest2">[2] There is nothing new in Konstanz, only what the wedding party, which is coming to Zürich, will tell.</p>
+    <p xml:id="regest3">[3] Bullinger should convey detailed information about the Baden Diet through the bearer [...].</p>
+    <p xml:id="regest4">[4] Enclosed is a letter and ten guilders for Hans Schöner.</p>
+    <p xml:id="regest5">[5] Request for prayer. Blessing wish and greeting.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. I wrote to you yesterday through the young Maximilian Seemann. If you have not yet received that letter, you will certainly receive it either tomorrow or the day after.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>There is nothing new here with us that I can tell you, except for what our people, who are flying over there for the wedding, will be able to tell you.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Through this bearer, please inform me diligently about the Baden Diet.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>I am sending a letter here with 10 gold coins to our Schöner, and I earnestly beg you to ensure they are delivered to him.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Pray diligently for us. May your household be well along with all who love us. Our people send their greetings to you. July 2, 1547. Yours, Ambrosius Blarer.</p>
+    </div>
+  </body>
+</letter>

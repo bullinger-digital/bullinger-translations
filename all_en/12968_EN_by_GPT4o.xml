@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12968">
+  <summary>
+    <p xml:id="regest1">[1] Hooper has just received a letter from John Burcher in Strasbourg. He sends greetings to [Bullinger] and his family. If [Bullinger] wishes to send something to Strasbourg, there is a presumably reliable messenger [...] who will depart tomorrow. However, he would need to deliver his dispatch to Hooper's neighbor, the carpenter [Michel] Schmid, by this evening.</p>
+    <p xml:id="regest2">[2] Burcher wrote that King Henry II of France has sent 5000 men to Scotland, along with a German Rhine Count [Johann Philipp von Salm-Dhaun-Neufville] and his mercenaries. May God grant victory to those who seek His honor the most!</p>
+    <p xml:id="regest3">[3] A large group of Spaniards, or rather a band of good-for-nothings, is encamped about 3 miles from Strasbourg during these holidays. What Emperor Charles V intends to do with them is still unknown.</p>
+    <p xml:id="regest4">[4] Hooper has a letter for John Butler, who resides in Constance. If [Bullinger] knows of a reliable messenger intending to go there, he should inform him.</p>
+    <p xml:id="regest5">[5] May the Lord Jesus always protect [Bullinger]! Greetings.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. I have just received a letter from Strasbourg from Burcher. He sends greetings to you and your entire family. If you wish to send something there, we will have a presumably reliable messenger tomorrow, as I hope, provided that your letters are delivered to our neighbor, the carpenter Michel Schmid, by this evening.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Burcher writes that King Henry II of France has sent 5000 soldiers to Scotland, and with them is a certain German count, who is called in German the Rhine Count, with his mercenaries. May the Lord grant victory to those who strive more to promote His glory!</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>A large group of Spaniards, or rather a band of good-for-nothings, is residing about 3 miles from Strasbourg and is taking a holiday. For what purpose Emperor Charles V will use their services is still unknown.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>I have letters for John Butler, who resides in Constance. If you have someone trustworthy who is going there, please let me know, I ask.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>May the Lord Jesus always protect you! Amen. Farewell. Your most devoted admirer, John Hooper.</p>
+    </div>
+  </body>
+</letter>

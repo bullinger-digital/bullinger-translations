@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12898">
+  <summary>
+    <p xml:id="regest1">[1] Blarer wanted to send the enclosed letter [No. 2847] yesterday, but missed the messenger [...].</p>
+    <p xml:id="regest2">[2] Last evening, he received a letter from the city clerk [Georg Maurer] of Memmingen, reporting that the Abbot of Weingarten, Gerwig Blarer, is on his way to Kempten, Isny, and Ravensburg. On Monday [March 14], he was in Memmingen and had the entire community gather in the church. Together with the city clerk, he ascended the pulpit. After saying a few introductory words, Maurer had to read the imperial mandate. Subsequently, everyone took the oath, for which they were praised by the Abbot. He then demanded from the council, in the name of Emperor Charles V, 80,000 guilders, artillery, and gunpowder, which caused great consternation, as they do not know how to raise this amount, even if they were to sell all the villages belonging to the city.</p>
+    <p xml:id="regest3">[3] By order of the Emperor, the Bishop of Augsburg, Otto Truchsess von Waldburg, rides to Rome accompanied by 50 horsemen, with the task of recruiting new Italian troops. One is supposed to believe that Emperor and Pope Paul III are at odds!</p>
+    <p xml:id="regest4">[4] The news about Margrave Albrecht Alcibiades of Brandenburg is now confirmed. Also, Landgrave [Christoph] of Leuchtenberg, [Count Georg] of Helfenstein, and others were captured by Elector Johann Friedrich of Saxony and taken to Denmark. The Elector is said to have also brought his wife [Sibylle of Jülich-Cleves-Berg] and children there for safety, so that they may reach a good peace independently of his fate.</p>
+    <p xml:id="regest5">[5] From England, it is reported as certain that the young Edward VI has been crowned king and a sixteen-member advisory council was appointed to him by his deceased father Henry VIII. Edward had to take an oath, swearing never to submit to the papacy again. Pope Paul III is said to have sent Cardinal Reginald Pole with a large army to England to undertake something [against the young king]. But nothing will come of it, as England, France, Denmark, and the Hanseatic cities have formed an alliance with Saxony in Hamburg.</p>
+    <p xml:id="regest6">[6] Blarer must break off, as he only learned shortly before about the current messenger [...].</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>D[ear] S[ir] and br[other]. Yesterday, I wanted to send you this letter but missed the messenger.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Last night, I received a letter from Memmingen, from the city clerk, stating that the Abbot of Weingarten is now on his way to Kempten, Isny, and Ravensburg. He was in Memmingen this past Monday. The entire community had to be gathered in the church. The city clerk stood by his side on the pulpit. The Abbot made an introduction, after which the city clerk read the imperial mandate, and then everyone took the oath. The wretched Abbot praised this highly, etc. Afterwards, he demanded from the council, on behalf of the Emperor, eighty thousand guilders, as well as some artillery and gunpowder, which has put the good people in great distress and anxiety. They do not know how to raise the money, even if they were to sell all their villages.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>The Bishop of Augsburg rides with 50 horsemen to Rome, dispatched by the Emperor, to recruit fresh troops and Italians. This shows how disunited the Emperor and the Pope are.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>It is now certain news that Margrave Albrecht, also the Landgrave of Leuchtenberg, Helfenstein, and others, have been attacked by the Elector, defeated, captured, and all sent to Denmark, including his own wife and children (whatever happens to him, his children may come to a good peace).</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>There is certain news from England that the young king has been crowned and a council of 16 lords has been appointed to him by his deceased father. He has been sworn in, and everyone had to swear, among other things, never to be subject to the Pope again. However, the Pope has sent Cardinal Pole with many troops to England. He intends to accomplish something, but it will fail, as England, France, the Hanseatic cities, Saxony, and Denmark have now held a significant meeting in Hamburg and have allied with each other.</p>
+    </div>
+    <div xml:id="div6" corresp="regest6">
+      <p>I cannot write more, as I was unaware of this messenger and wrote this in great haste.</p>
+    </div>
+  </body>
+</letter>

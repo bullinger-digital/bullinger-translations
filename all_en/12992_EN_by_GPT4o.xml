@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12992">
+  <summary>
+    <p xml:id="regest1">[1] Myconius writes against his habit after dinner because he learned from the bearer [...] that she will travel to Zurich. On one hand, he wants to greet Bullinger, and on the other, to inform him of what was discussed at dinner. Emperor Charles V is said to have made peace with all dominions up to the sea. Myconius can hardly believe this, but perhaps Bullinger knows more about it. If it is true, then this peace is directed against the Confederates, as it is considered certain that the Emperor pursues only one goal: the subjugation of this rebellious peasant people who even oppose Jupiter. Oh, if only all the Helvetians understood this and turned to the Lord, thus thwarting the plans of this half-decayed Emperor! He is said to be seriously ill, as Count George of Württemberg-Mömpelgard, who fled to Basel, heard from Nuremberg.</p>
+    <p xml:id="regest2">[2] A letter from Rome confirmed the events in Naples and reported on the gathering of up to 30,000 Neapolitans against the Viceroy Pedro Álvarez de Toledo. He is said to have fled to Gaeta and asked the Duke of Florence, Cosimo I de' Medici, for help.</p>
+    <p xml:id="regest3">[3] An agreement among the Confederates is more necessary today than ever before. May the Lord stand by them! The Emperor would like to immortalize himself with a victory over the Helvetians before he dies. The influential Bullinger should ensure that the Zurich authorities convey this to the other Confederates in the interest of Helvetia!</p>
+    <p xml:id="regest4">[4] Bullinger is probably informed about the Ulm meeting [of the Imperial Estates]. Myconius is pleased with the [hesitant] negotiations there. May God strengthen the [Protestants]!</p>
+    <p xml:id="regest5">[5] Greetings.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>S. I am writing after dinner, contrary to my habit, because this woman said after dinner that she would leave for Zurich. I did not want to let her go without greeting you, and besides this, it occurred to me what I heard at dinner: that the Emperor has made peace with all up to the sea, which, although I do not believe, I wanted to inform you about, in case you have more certain information on the matter. For I am convinced: If it is true what the rumor says, it is against us; for these days I have heard for certain that the Emperor intends to make peace of any kind with everyone, just so he can subdue those rebellious peasants, even those who oppose Jupiter. If only all the Swiss believed this as I do, then they would turn to the Lord, for then the plan of the corpse would come to nothing (for the Emperor is nothing but a corpse). For Count George of Württemberg, who is exiled here, has heard from Nuremberg that the Emperor is constantly gravely ill.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Besides this, we have letters from Rome confirming that everything in Naples is true, and now up to thirty thousand Neapolitans have gathered against the Viceroy, who has fled to Gaeta and implored the help of the Duke of Florence.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>If only there could be an agreement among our people sometime! For today it would be more necessary than ever before. May the Lord be with us, so that we can endure. For the Emperor would gladly leave this world, if only he could leave behind this praise: to have defeated the Swiss! Because you have influence among your people, I ask you to instill this as much as you can, so that they also instill the same in others. It would be worthwhile and beneficial for Switzerland, as long as God is with us successfully.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>You know everything about the Ulm meetings. I am pleased with whatever has been done there. I pray to the Lord to confirm it.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>Farewell in Christ with yours. Basel, July 5, 1547. Yours, Os. Myc.</p>
+      <p>To the most learned D. Heinrich Bullinger, primary minister of Christ, brother and venerable lord in Christ. Zurich.</p>
+    </div>
+  </body>
+</letter>

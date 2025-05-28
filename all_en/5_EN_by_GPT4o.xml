@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file5">
+  <summary>
+    <p xml:id="regest1">New Year's greetings.</p>
+    <p xml:id="regest2">Bullinger thanks for Vadian's letter [hbbw XX, No. 3101, from December 30, 1547] along with the instructive draft letter to Aegidius Tschudi contained within it. Without a doubt, this letter will reassure Tschudi, even if, as a loyal follower of the papacy, he will hardly be convinced by it. May the Lord open his eyes! Bullinger will soon forward the draft to Johannes Stumpf.</p>
+    <p xml:id="regest3">The messenger [N.N.], who brought Stumpf's chronicle to Chur, Glarus, and the other part of Unterwalden, could hardly put into words how kindly he was received in all these places upon his return. Those who are bringing the copies to Bern, Freiburg [i.Ü.], Solothurn, Biel, Basel, and Mulhouse have not yet returned.</p>
+    <p xml:id="regest4">The distinguished Bannerlord Andreas Schmid was selected by the Small and Great Council to travel to France as an envoy.</p>
+    <p xml:id="regest5">On January 1, the Dane Hans [Meissenheim] Bogbinder, once a confidant of Erasmus, was a guest [in Zurich]. He came directly from Augsburg and was accompanied by a distinguished Englishman [N.N.] and a Frenchman [N.N.]. As he was in a hurry, there was no time for long conversations before he set off for France and from there to England. Bogbinder also visited the imprisoned Elector Johann Friedrich I of Saxony. Bullinger suspects that the Dane is an agent of the Danish King Christian III, as he seemed to know everything about Emperor Charles V's plans. From his sparse remarks, much could be inferred. Bogbinder believes that a great war between Pope Paul III and the Emperor is imminent. There is nothing more to report.</p>
+    <p xml:id="regest6">Things are going very badly for Philip of Hesse.</p>
+    <p xml:id="regest7">Magdeburg has been declared an enemy and outlawed [by the Emperor].</p>
+    <p xml:id="regest8">May the Lord provide assistance and remove the terrible wolf [Charles V] from their midst! Greetings.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>I pray for you, most esteemed lord, and for your entire household, that our almighty Lord grants you a year in every way and measure most fortunate.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>I received and read your letter along with the form of the response to be given to Mr. Tschudi, which was indeed learned, appropriate, pious, and most useful, and I give great thanks to your diligence and kindness. I always become more learned from your writings. Without a doubt, the man's spirit will be appeased, for he is a humane man, but I fear we will persuade him of nothing. For he adheres most superstitiously to the papacy. May the Lord open his eyes and heart! I will ensure that Stumpf has your draft as soon as possible.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>The messenger who carried the copies of the chronicles to Chur and Glarus, and finally to the other part of Unterwalden, has returned and cannot sufficiently praise how gratefully and kindly he was received there. They send gifts and public letters, in which they express thanks and attest to their goodwill. However, those who went to Bern, Freiburg, Solothurn, Biel, Basel, and Mulhouse have not yet returned.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>The distinguished Andreas Schmid, the Bannerlord of our city, has been chosen by the senate and the people as an envoy to France.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>On the first of January, Mr. Hans Bogbinder, the Dane, once a close friend of Erasmus of Rotterdam, dined with us. He was coming directly from Augsburg. He was accompanied by a certain noble Englishman and Frenchman. He wished to see and greet Mr. Pellicanus, Bibliander, myself, and the others. He was in such a hurry that there was no time for a long conversation. He left for France, then to England. He had been with the captured Elector. I suspect he is an envoy of the King of Denmark. He seemed to know everything about the Emperor's plans. For from his few words, much could be inferred. He believes that a great war will arise between the Emperor and the Pope and the Pope's allies, etc. Besides this, I have nothing more to write.</p>
+    </div>
+    <div xml:id="div6" corresp="regest6">
+      <p>Things are going very badly for Philip of Hesse.</p>
+    </div>
+    <div xml:id="div7" corresp="regest7">
+      <p>The people of Magdeburg have been publicly declared enemies of the Emperor and implicated in the imperial ban.</p>
+    </div>
+    <div xml:id="div8" corresp="regest8">
+      <p>May the Lord be with us and remove that most cruel wolf from our midst. Farewell. All of ours greet you. Zurich, January 3, 1548.</p>
+      <p>Yours, Bullinger.</p>
+      <p>To the most distinguished man, Mr. Joachim Vadian, consul of St. Gallen, his most esteemed lord. St. Gallen.</p>
+    </div>
+  </body>
+</letter>

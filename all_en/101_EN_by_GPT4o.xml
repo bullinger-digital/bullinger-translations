@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file101">
+  <summary>
+    <p xml:id="regest1">Johann Valentin Furtmüller wanted to explain to Bullinger with a detailed report [18348] about the origin of his dispute with Hans Vogler the Elder, why Vogler has been angry with him for so many years. He entrusted [the corresponding letter] to Vadian for delivery. Although he has not read it himself, based on Furtmüller's oral account of the regrettable case, he believes that Vogler should better know nothing and his confidant Junker Jakob Rordorf should only learn the essentials from this letter.</p>
+    <p xml:id="regest2">He himself will be able to appease Furtmüller. Bullinger, in turn, should ensure that Vogler listens to him.</p>
+    <p xml:id="regest3">In his enclosed, handwritten letter, Furtmüller used the [pseudonym] "Michael" instead of Bullinger's name, so as not to jeopardize the settlement of the dispute with Vogler. He would like to receive the letter (even if it is a copy) back.</p>
+    <p xml:id="regest4">Greetings.</p>
+    <p xml:id="regest5">Unfortunately, Rordorf [during his stay in St. Gallen] was too busy for a meeting with Vadian. However, he considers him a good person and is willing to be of service to him.</p>
+    <p xml:id="regest6">[P.S.:] Bullinger should [first] read the present letter, in which Furtmüller's letter is enclosed.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>Greetings. Our Troiano Fortmüller wanted to explain the entire matter from the beginning, as they say, to reveal to you the source of the dispute, so that you might clearly understand why Vogler (whom he calls "the Hunter") has been angry with him for so many years. I have not read what he entrusted to me in your name and asked me to faithfully deliver to you. However, since I understood from his own words that the whole argument is more than tragic, it seems very advisable to me, dearest man, that Vogler should know nothing of these things, and not even Rordorf should know everything, as he is a little closer to Vogler than to be allowed to look into these matters more deeply than from the threshold.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>I will do everything I can in good faith to calm or, to put it rightly, to end the longstanding feud, and I do not doubt that Fortmüller will listen to me. Just ensure that Vogler listens to you and follows your pious and Christian admonitions.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>Vogler has overlooked your name in the hope of making peace and gave me the story as if written to a certain Michael, which I will send to you, written in Fortmüller's hand. He asks, however, that you either return the original or send a copy.</p>
+    </div>
+    <div xml:id="div4" corresp="regest4">
+      <p>Farewell.</p>
+    </div>
+    <div xml:id="div5" corresp="regest5">
+      <p>I would have very gladly offered my services, however small, to Mr. Rordorf, but his affairs were too important for any opportunity to be given to me. I certainly consider him an excellent and most courteous man, to whom I am indeed ready and prepared to be of service. St. Gallen, the sixth day before the calends of May, in the year 1548.</p>
+      <p>Joachim Vadian.</p>
+    </div>
+    <div xml:id="div6" corresp="regest6">
+      <p>Read this letter covering Fortmüller's writings.</p>
+      <p>To Mr. Heinrich Fortmüller, his most esteemed friend. Zürich.</p>
+    </div>
+  </body>
+</letter>

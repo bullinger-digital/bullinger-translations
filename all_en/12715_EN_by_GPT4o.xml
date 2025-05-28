@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<letter xml:id="file12715">
+  <summary>
+    <p xml:id="regest1">[1] On Tuesday, November 9, a soldier [...], who returned to Stammheim from the Schmalkaldic field camp, handed Stumpf the enclosed letter [No. 2648] from Ulm.</p>
+    <p xml:id="regest2">[2] Bullinger should return Vadian's book about the abbots of St. Gallen ["Kleine Chronik"] via Master Christoph [Froschauer], so that Stumpf can finally return it along with other books and old documents to Vadian.</p>
+    <p xml:id="regest3">[3] Recommendation to God.</p>
+  </summary>
+  <body>
+    <div xml:id="div1" corresp="regest1">
+      <p>The Lord be with you, etc. Dear, kind sir, on Tuesday, November 9, a soldier from Stammheim (who returned home on leave from the field with others) handed me this enclosed letter to send to you; it comes from Ulm, etc.</p>
+    </div>
+    <div xml:id="div2" corresp="regest2">
+      <p>Since you still have Dr. Vadian's book about the abbots of St. Gallen, which you have used sufficiently, it is my desire that you bind it for Master Christoph and send it to me, so that I can return it along with many other books and old documents, which have been lent to me by the aforementioned doctor for more than a year and a day, all together at once.</p>
+    </div>
+    <div xml:id="div3" corresp="regest3">
+      <p>With this, I commend you to the gracious God and Father in heaven. Stammheim, October 10, 1546. Your willing servant and brother, Johannes Stumpf.</p>
+      <p>To the most illustrious interpreter of divine literature, Dr. Heinrich Bullinger, the most vigilant Antistes of the city of Zurich, his most esteemed lord.</p>
+    </div>
+  </body>
+</letter>
